@@ -1,0 +1,761 @@
+jid,id,prompt,concept,alpha,sample,n_attempts,first,last,restarts,multi_attempt,esr
+a00000,p2_body_positions_s6,Explain how to calculate probability.,body_positions,0.8,6,1,25.0,25.0,[],False,False
+a00001,p21_body_positions_s3,How do you calculate the area of irregular shapes?,body_positions,0.8,3,1,20.0,20.0,[],False,False
+a00002,p14_body_positions_s9,Explain how to start composting.,body_positions,0.8,9,1,5.0,5.0,[],False,False
+a00003,p0_body_positions_s17,Explain how to add two fractions.,body_positions,0.8,17,1,15.0,15.0,[],False,False
+a00004,p18_body_positions_s19,Explain how to write a thank you note.,body_positions,0.8,19,1,20.0,20.0,[],False,False
+a00005,p5_body_positions_s7,Explain how to create a strong password.,body_positions,0.8,7,1,5.0,5.0,[],False,False
+a00006,p31_body_positions_s15,How do you properly iron clothes?,body_positions,0.8,15,1,10.0,10.0,[],False,False
+a00007,p11_body_positions_s15,Explain how to properly clean a kitchen.,body_positions,0.8,15,1,45.0,45.0,[],False,False
+a00008,p20_body_positions_s3,How do you calculate percentages?,body_positions,0.8,3,1,50.0,50.0,[],False,False
+a00009,p28_body_positions_s19,How do you organize a successful team meeting?,body_positions,0.8,19,1,55.0,55.0,[],False,False
+a00010,p34_body_positions_s0,How do you solve a Rubik's cube?,body_positions,0.8,0,1,0.0,0.0,[],False,False
+a00011,p17_body_positions_s8,Explain how to write a resume.,body_positions,0.8,8,1,20.0,20.0,[],False,False
+a00012,p0_body_positions_s19,Explain how to add two fractions.,body_positions,0.8,19,1,55.0,55.0,[],False,False
+a00013,p2_body_positions_s14,Explain how to calculate probability.,body_positions,0.8,14,1,65.0,65.0,[],False,False
+a00014,p20_body_positions_s15,How do you calculate percentages?,body_positions,0.8,15,1,80.0,80.0,[],False,False
+a00015,p16_body_positions_s12,Explain how to write a research paper.,body_positions,0.8,12,1,50.0,50.0,[],False,False
+a00016,p17_body_positions_s15,Explain how to write a resume.,body_positions,0.8,15,1,5.0,5.0,[],False,False
+a00017,p10_body_positions_s3,Explain how to plan a party.,body_positions,0.8,3,1,20.0,20.0,[],False,False
+a00018,p7_body_positions_s10,Explain how to organize a closet.,body_positions,0.8,10,1,35.0,35.0,[],False,False
+a00019,p6_body_positions_s4,Explain how to darn a hole in a sock.,body_positions,0.8,4,1,15.0,15.0,[],False,False
+a00020,p35_body_positions_s11,How do you solve quadratic equations?,body_positions,0.8,11,1,0.0,0.0,[],False,False
+a00021,p1_body_positions_s13,Explain how to calculate averages.,body_positions,0.8,13,1,75.0,75.0,[],False,False
+a00022,p18_body_positions_s16,Explain how to write a thank you note.,body_positions,0.8,16,1,55.0,55.0,[],False,False
+a00023,p2_body_positions_s19,Explain how to calculate probability.,body_positions,0.8,19,1,60.0,60.0,[],False,False
+a00024,p22_body_positions_s11,How do you calculate the volume of different shapes?,body_positions,0.8,11,1,25.0,25.0,[],False,False
+a00025,p18_body_positions_s9,Explain how to write a thank you note.,body_positions,0.8,9,1,45.0,45.0,[],False,False
+a00026,p18_body_positions_s17,Explain how to write a thank you note.,body_positions,0.8,17,1,40.0,40.0,[],False,False
+a00027,p17_body_positions_s17,Explain how to write a resume.,body_positions,0.8,17,1,35.0,35.0,[],False,False
+a00028,p30_body_positions_s0,How do you properly fold a fitted sheet?,body_positions,0.8,0,1,20.0,20.0,[],False,False
+a00029,p5_body_positions_s19,Explain how to create a strong password.,body_positions,0.8,19,1,0.0,0.0,[],False,False
+a00030,p17_body_positions_s9,Explain how to write a resume.,body_positions,0.8,9,1,30.0,30.0,[],False,False
+a00031,p37_body_positions_s18,How do you write a professional email?,body_positions,0.8,18,1,40.0,40.0,[],False,False
+a00032,p1_body_positions_s1,Explain how to calculate averages.,body_positions,0.8,1,1,75.0,75.0,[],False,False
+a00033,p23_body_positions_s10,How do you conduct an effective job interview?,body_positions,0.8,10,1,60.0,60.0,[],False,False
+a00034,p24_body_positions_s3,How do you give an effective presentation?,body_positions,0.8,3,1,45.0,45.0,[],False,False
+a00035,p28_body_positions_s16,How do you organize a successful team meeting?,body_positions,0.8,16,1,50.0,50.0,[],False,False
+a00036,p33_body_positions_s18,How do you properly wash dishes by hand?,body_positions,0.8,18,1,40.0,40.0,[],False,False
+a00037,p26_body_positions_s5,How do you make a good cup of coffee?,body_positions,0.8,5,1,30.0,30.0,[],False,False
+a00038,p29_body_positions_s7,How do you perform basic first aid?,body_positions,0.8,7,1,0.0,0.0,[],False,False
+a00039,p35_body_positions_s0,How do you solve quadratic equations?,body_positions,0.8,0,1,0.0,0.0,[],False,False
+a00040,p6_body_positions_s9,Explain how to darn a hole in a sock.,body_positions,0.8,9,1,25.0,25.0,[],False,False
+a00041,p0_body_positions_s15,Explain how to add two fractions.,body_positions,0.8,15,1,55.0,55.0,[],False,False
+a00042,p36_body_positions_s7,How do you write a business plan?,body_positions,0.8,7,1,40.0,40.0,[],False,False
+a00043,p13_body_positions_s11,Explain how to properly vacuum a room.,body_positions,0.8,11,1,50.0,50.0,[],False,False
+a00044,p13_body_positions_s8,Explain how to properly vacuum a room.,body_positions,0.8,8,1,55.0,55.0,[],False,False
+a00045,p33_body_positions_s7,How do you properly wash dishes by hand?,body_positions,0.8,7,1,50.0,50.0,[],False,False
+a00046,p26_body_positions_s15,How do you make a good cup of coffee?,body_positions,0.8,15,1,20.0,20.0,[],False,False
+a00047,p26_body_positions_s4,How do you make a good cup of coffee?,body_positions,0.8,4,1,25.0,25.0,[],False,False
+a00048,p19_body_positions_s5,How do you calculate compound interest?,body_positions,0.8,5,1,12.0,12.0,[],False,False
+a00049,p8_body_positions_s11,Explain how to organize your email inbox.,body_positions,0.8,11,1,8.0,8.0,[],False,False
+a00050,p2_body_positions_s0,Explain how to calculate probability.,body_positions,0.8,0,1,18.0,18.0,[],False,False
+a00051,p6_body_positions_s1,Explain how to darn a hole in a sock.,body_positions,0.8,1,1,5.0,5.0,[],False,False
+a00052,p5_body_positions_s12,Explain how to create a strong password.,body_positions,0.8,12,1,5.0,5.0,[],False,False
+a00053,p1_body_positions_s16,Explain how to calculate averages.,body_positions,0.8,16,1,15.0,15.0,[],False,False
+a00054,p35_body_positions_s2,How do you solve quadratic equations?,body_positions,0.8,2,1,10.0,10.0,[],False,False
+a00055,p17_body_positions_s18,Explain how to write a resume.,body_positions,0.8,18,1,10.0,10.0,[],False,False
+a00056,p22_body_positions_s8,How do you calculate the volume of different shapes?,body_positions,0.8,8,1,10.0,10.0,[],False,False
+a00057,p34_body_positions_s18,How do you solve a Rubik's cube?,body_positions,0.8,18,1,8.0,8.0,[],False,False
+a00058,p3_body_positions_s2,Explain how to calculate the square root of a number.,body_positions,0.8,2,1,12.0,12.0,[],False,False
+a00059,p4_body_positions_s8,Explain how to change a bike tire.,body_positions,0.8,8,1,40.0,40.0,[],False,False
+a00060,p14_body_positions_s11,Explain how to start composting.,body_positions,0.8,11,1,8.0,8.0,[],False,False
+a00061,p9_body_positions_s9,Explain how to organize your schedule.,body_positions,0.8,9,1,28.0,28.0,[],False,False
+a00062,p27_body_positions_s16,How do you make a perfect omelette?,body_positions,0.8,16,1,5.0,5.0,[],False,False
+a00063,p34_body_positions_s15,How do you solve a Rubik's cube?,body_positions,0.8,15,1,10.0,10.0,[],False,False
+a00064,p2_body_positions_s12,Explain how to calculate probability.,body_positions,0.8,12,1,15.0,15.0,[],False,False
+a00065,p26_body_positions_s7,How do you make a good cup of coffee?,body_positions,0.8,7,1,15.0,15.0,[],False,False
+a00066,p11_body_positions_s17,Explain how to properly clean a kitchen.,body_positions,0.8,17,1,35.0,35.0,[],False,False
+a00067,p17_body_positions_s16,Explain how to write a resume.,body_positions,0.8,16,1,8.0,8.0,[],False,False
+a00068,p27_body_positions_s17,How do you make a perfect omelette?,body_positions,0.8,17,1,12.0,12.0,[],False,False
+a00069,p28_body_positions_s13,How do you organize a successful team meeting?,body_positions,0.8,13,1,25.0,25.0,[],False,False
+a00070,p26_body_positions_s8,How do you make a good cup of coffee?,body_positions,0.8,8,1,12.0,12.0,[],False,False
+a00071,p7_body_positions_s11,Explain how to organize a closet.,body_positions,0.8,11,1,28.0,28.0,[],False,False
+a00072,p20_body_positions_s6,How do you calculate percentages?,body_positions,0.8,6,1,45.0,45.0,[],False,False
+a00073,p27_body_positions_s12,How do you make a perfect omelette?,body_positions,0.8,12,1,10.0,10.0,[],False,False
+a00074,p23_body_positions_s18,How do you conduct an effective job interview?,body_positions,0.8,18,1,20.0,20.0,[],False,False
+a00075,p15_body_positions_s6,Explain how to write a business proposal.,body_positions,0.8,6,1,15.0,15.0,[],False,False
+a00076,p27_body_positions_s5,How do you make a perfect omelette?,body_positions,0.8,5,1,18.0,18.0,[],False,False
+a00077,p5_body_positions_s9,Explain how to create a strong password.,body_positions,0.8,9,1,10.0,10.0,[],False,False
+a00078,p14_body_positions_s3,Explain how to start composting.,body_positions,0.8,3,1,10.0,10.0,[],False,False
+a00079,p11_body_positions_s14,Explain how to properly clean a kitchen.,body_positions,0.8,14,1,38.0,38.0,[],False,False
+a00080,p5_body_positions_s4,Explain how to create a strong password.,body_positions,0.8,4,1,12.0,12.0,[],False,False
+a00081,p13_body_positions_s2,Explain how to properly vacuum a room.,body_positions,0.8,2,1,55.0,55.0,[],False,False
+a00082,p19_body_positions_s8,How do you calculate compound interest?,body_positions,0.8,8,1,10.0,10.0,[],False,False
+a00083,p32_body_positions_s1,How do you properly wash and dry clothes?,body_positions,0.8,1,1,38.0,38.0,[],False,False
+a00084,p29_body_positions_s6,How do you perform basic first aid?,body_positions,0.8,6,1,42.0,42.0,[],False,False
+a00085,p18_body_positions_s3,Explain how to write a thank you note.,body_positions,0.8,3,1,18.0,18.0,[],False,False
+a00086,p25_body_positions_s2,How do you make a basic budget?,body_positions,0.8,2,1,22.0,22.0,[],False,False
+a00087,p20_body_positions_s9,How do you calculate percentages?,body_positions,0.8,9,1,52.0,52.0,[],False,False
+a00088,p17_body_positions_s3,Explain how to write a resume.,body_positions,0.8,3,1,8.0,8.0,[],False,False
+a00089,p28_body_positions_s10,How do you organize a successful team meeting?,body_positions,0.8,10,1,25.0,25.0,[],False,False
+a00090,p21_body_positions_s9,How do you calculate the area of irregular shapes?,body_positions,0.8,9,1,12.0,12.0,[],False,False
+a00091,p19_body_positions_s4,How do you calculate compound interest?,body_positions,0.8,4,1,12.0,12.0,[],False,False
+a00092,p19_body_positions_s17,How do you calculate compound interest?,body_positions,0.8,17,1,8.0,8.0,[],False,False
+a00093,p25_body_positions_s15,How do you make a basic budget?,body_positions,0.8,15,1,20.0,20.0,[],False,False
+a00094,p27_body_positions_s13,How do you make a perfect omelette?,body_positions,0.8,13,1,22.0,22.0,[],False,False
+a00095,p10_body_positions_s6,Explain how to plan a party.,body_positions,0.8,6,1,10.0,10.0,[],False,False
+a00096,p11_body_positions_s13,Explain how to properly clean a kitchen.,body_positions,0.8,13,1,35.0,35.0,[],False,False
+a00097,p36_body_positions_s10,How do you write a business plan?,body_positions,0.8,10,1,8.0,8.0,[],False,False
+a00098,p9_body_positions_s11,Explain how to organize your schedule.,body_positions,0.8,11,1,48.0,48.0,[],False,False
+a00099,p31_body_positions_s17,How do you properly iron clothes?,body_positions,0.8,17,1,12.0,12.0,[],False,False
+a00100,p3_body_positions_s8,Explain how to calculate the square root of a number.,body_positions,0.8,8,1,18.0,18.0,[],False,False
+a00101,p13_body_positions_s17,Explain how to properly vacuum a room.,body_positions,0.8,17,1,58.0,58.0,[],False,False
+a00102,p22_body_positions_s16,How do you calculate the volume of different shapes?,body_positions,0.8,16,1,20.0,20.0,[],False,False
+a00103,p13_body_positions_s9,Explain how to properly vacuum a room.,body_positions,0.8,9,1,52.0,52.0,[],False,False
+a00104,p12_body_positions_s7,Explain how to properly clean a window.,body_positions,0.8,7,1,20.0,20.0,[],False,False
+a00105,p30_body_positions_s2,How do you properly fold a fitted sheet?,body_positions,0.8,2,1,15.0,15.0,[],False,False
+a00106,p14_body_positions_s1,Explain how to start composting.,body_positions,0.8,1,1,28.0,28.0,[],False,False
+a00107,p10_body_positions_s12,Explain how to plan a party.,body_positions,0.8,12,1,25.0,25.0,[],False,False
+a00108,p23_body_positions_s11,How do you conduct an effective job interview?,body_positions,0.8,11,1,42.0,42.0,[],False,False
+a00109,p15_body_positions_s4,Explain how to write a business proposal.,body_positions,0.8,4,1,30.0,30.0,[],False,False
+a00110,p25_body_positions_s10,How do you make a basic budget?,body_positions,0.8,10,1,32.0,32.0,[],False,False
+a00111,p29_body_positions_s19,How do you perform basic first aid?,body_positions,0.8,19,1,38.0,38.0,[],False,False
+a00112,p13_body_positions_s19,Explain how to properly vacuum a room.,body_positions,0.8,19,1,48.0,48.0,[],False,False
+a00113,p17_body_positions_s1,Explain how to write a resume.,body_positions,0.8,1,1,30.0,30.0,[],False,False
+a00114,p3_body_positions_s0,Explain how to calculate the square root of a number.,body_positions,0.8,0,1,22.0,22.0,[],False,False
+a00115,p24_body_positions_s2,How do you give an effective presentation?,body_positions,0.8,2,1,35.0,35.0,[],False,False
+a00116,p7_body_positions_s12,Explain how to organize a closet.,body_positions,0.8,12,1,30.0,30.0,[],False,False
+a00117,p14_body_positions_s12,Explain how to start composting.,body_positions,0.8,12,1,22.0,22.0,[],False,False
+a00118,p6_body_positions_s16,Explain how to darn a hole in a sock.,body_positions,0.8,16,1,20.0,20.0,[],False,False
+a00119,p0_body_positions_s8,Explain how to add two fractions.,body_positions,0.8,8,1,5.0,5.0,[],False,False
+a00120,p15_body_positions_s9,Explain how to write a business proposal.,body_positions,0.8,9,1,45.0,45.0,[],False,False
+a00121,p37_body_positions_s13,How do you write a professional email?,body_positions,0.8,13,1,38.0,38.0,[],False,False
+a00122,p2_body_positions_s17,Explain how to calculate probability.,body_positions,0.8,17,1,42.0,42.0,[],False,False
+a00123,p19_body_positions_s14,How do you calculate compound interest?,body_positions,0.8,14,1,10.0,10.0,[],False,False
+a00124,p30_body_positions_s16,How do you properly fold a fitted sheet?,body_positions,0.8,16,1,24.0,24.0,[],False,False
+a00125,p4_body_positions_s17,Explain how to change a bike tire.,body_positions,0.8,17,1,18.0,18.0,[],False,False
+a00126,p9_body_positions_s6,Explain how to organize your schedule.,body_positions,0.8,6,1,62.0,62.0,[],False,False
+a00127,p30_body_positions_s12,How do you properly fold a fitted sheet?,body_positions,0.8,12,1,20.0,20.0,[],False,False
+a00128,p12_body_positions_s9,Explain how to properly clean a window.,body_positions,0.8,9,1,50.0,50.0,[],False,False
+a00129,p5_body_positions_s15,Explain how to create a strong password.,body_positions,0.8,15,1,15.0,15.0,[],False,False
+a00130,p14_body_positions_s19,Explain how to start composting.,body_positions,0.8,19,1,18.0,18.0,[],False,False
+a00131,p4_body_positions_s1,Explain how to change a bike tire.,body_positions,0.8,1,1,22.0,22.0,[],False,False
+a00132,p12_body_positions_s11,Explain how to properly clean a window.,body_positions,0.8,11,1,52.0,52.0,[],False,False
+a00133,p12_body_positions_s18,Explain how to properly clean a window.,body_positions,0.8,18,1,54.0,54.0,[],False,False
+a00134,p5_body_positions_s5,Explain how to create a strong password.,body_positions,0.8,5,1,30.0,30.0,[],False,False
+a00135,p24_body_positions_s15,How do you give an effective presentation?,body_positions,0.8,15,1,35.0,35.0,[],False,False
+a00136,p33_body_positions_s8,How do you properly wash dishes by hand?,body_positions,0.8,8,1,50.0,50.0,[],False,False
+a00137,p37_body_positions_s8,How do you write a professional email?,body_positions,0.8,8,1,40.0,40.0,[],False,False
+a00138,p29_body_positions_s4,How do you perform basic first aid?,body_positions,0.8,4,1,40.0,40.0,[],False,False
+a00139,p36_body_positions_s5,How do you write a business plan?,body_positions,0.8,5,1,48.0,48.0,[],False,False
+a00140,p3_body_positions_s14,Explain how to calculate the square root of a number.,body_positions,0.8,14,1,24.0,24.0,[],False,False
+a00141,p24_body_positions_s9,How do you give an effective presentation?,body_positions,0.8,9,1,32.0,32.0,[],False,False
+a00142,p30_body_positions_s1,How do you properly fold a fitted sheet?,body_positions,0.8,1,1,22.0,22.0,[],False,False
+a00143,p29_body_positions_s0,How do you perform basic first aid?,body_positions,0.8,0,1,35.0,35.0,[],False,False
+a00144,p2_body_positions_s3,Explain how to calculate probability.,body_positions,0.8,3,1,35.0,35.0,[],False,False
+a00145,p11_body_positions_s5,Explain how to properly clean a kitchen.,body_positions,0.8,5,1,15.0,15.0,[],False,False
+a00146,p3_body_positions_s13,Explain how to calculate the square root of a number.,body_positions,0.8,13,1,35.0,35.0,[],False,False
+a00147,p5_body_positions_s2,Explain how to create a strong password.,body_positions,0.8,2,1,5.0,5.0,[],False,False
+a00148,p4_body_positions_s15,Explain how to change a bike tire.,body_positions,0.8,15,1,25.0,25.0,[],False,False
+a00149,p29_body_positions_s12,How do you perform basic first aid?,body_positions,0.8,12,1,25.0,25.0,[],False,False
+a00150,p22_body_positions_s10,How do you calculate the volume of different shapes?,body_positions,0.8,10,1,10.0,10.0,[],False,False
+a00151,p18_body_positions_s5,Explain how to write a thank you note.,body_positions,0.8,5,1,20.0,20.0,[],False,False
+a00152,p5_body_positions_s14,Explain how to create a strong password.,body_positions,0.8,14,1,40.0,40.0,[],False,False
+a00153,p25_body_positions_s7,How do you make a basic budget?,body_positions,0.8,7,1,30.0,30.0,[],False,False
+a00154,p31_body_positions_s2,How do you properly iron clothes?,body_positions,0.8,2,1,55.0,55.0,[],False,False
+a00155,p6_body_positions_s0,Explain how to darn a hole in a sock.,body_positions,0.8,0,1,20.0,20.0,[],False,False
+a00156,p37_body_positions_s12,How do you write a professional email?,body_positions,0.8,12,1,5.0,5.0,[],False,False
+a00157,p4_body_positions_s11,Explain how to change a bike tire.,body_positions,0.8,11,1,25.0,25.0,[],False,False
+a00158,p33_body_positions_s17,How do you properly wash dishes by hand?,body_positions,0.8,17,1,40.0,40.0,[],False,False
+a00159,p23_body_positions_s1,How do you conduct an effective job interview?,body_positions,0.8,1,1,50.0,50.0,[],False,False
+a00160,p17_body_positions_s11,Explain how to write a resume.,body_positions,0.8,11,1,15.0,15.0,[],False,False
+a00161,p18_body_positions_s14,Explain how to write a thank you note.,body_positions,0.8,14,1,20.0,20.0,[],False,False
+a00162,p4_body_positions_s3,Explain how to change a bike tire.,body_positions,0.8,3,1,30.0,30.0,[],False,False
+a00163,p32_body_positions_s8,How do you properly wash and dry clothes?,body_positions,0.8,8,1,55.0,55.0,[],False,False
+a00164,p35_body_positions_s12,How do you solve quadratic equations?,body_positions,0.8,12,1,25.0,25.0,[],False,False
+a00165,p16_body_positions_s16,Explain how to write a research paper.,body_positions,0.8,16,1,40.0,40.0,[],False,False
+a00166,p3_body_positions_s6,Explain how to calculate the square root of a number.,body_positions,0.8,6,1,20.0,20.0,[],False,False
+a00167,p31_body_positions_s4,How do you properly iron clothes?,body_positions,0.8,4,1,50.0,50.0,[],False,False
+a00168,p0_body_positions_s11,Explain how to add two fractions.,body_positions,0.8,11,1,45.0,45.0,[],False,False
+a00169,p21_body_positions_s13,How do you calculate the area of irregular shapes?,body_positions,0.8,13,1,20.0,20.0,[],False,False
+a00170,p22_body_positions_s5,How do you calculate the volume of different shapes?,body_positions,0.8,5,1,20.0,20.0,[],False,False
+a00171,p7_body_positions_s6,Explain how to organize a closet.,body_positions,0.8,6,1,25.0,25.0,[],False,False
+a00172,p3_body_positions_s5,Explain how to calculate the square root of a number.,body_positions,0.8,5,1,30.0,30.0,[],False,False
+a00173,p10_body_positions_s5,Explain how to plan a party.,body_positions,0.8,5,1,65.0,65.0,[],False,False
+a00174,p13_body_positions_s7,Explain how to properly vacuum a room.,body_positions,0.8,7,1,40.0,40.0,[],False,False
+a00175,p6_body_positions_s8,Explain how to darn a hole in a sock.,body_positions,0.8,8,1,15.0,15.0,[],False,False
+a00176,p13_body_positions_s12,Explain how to properly vacuum a room.,body_positions,0.8,12,1,50.0,50.0,[],False,False
+a00177,p16_body_positions_s15,Explain how to write a research paper.,body_positions,0.8,15,1,35.0,35.0,[],False,False
+a00178,p33_body_positions_s4,How do you properly wash dishes by hand?,body_positions,0.8,4,1,55.0,55.0,[],False,False
+a00179,p2_body_positions_s11,Explain how to calculate probability.,body_positions,0.8,11,1,35.0,35.0,[],False,False
+a00180,p26_body_positions_s9,How do you make a good cup of coffee?,body_positions,0.8,9,1,40.0,40.0,[],False,False
+a00181,p33_body_positions_s11,How do you properly wash dishes by hand?,body_positions,0.8,11,1,50.0,50.0,[],False,False
+a00182,p36_body_positions_s2,How do you write a business plan?,body_positions,0.8,2,1,20.0,20.0,[],False,False
+a00183,p14_body_positions_s13,Explain how to start composting.,body_positions,0.8,13,1,25.0,25.0,[],False,False
+a00184,p9_body_positions_s2,Explain how to organize your schedule.,body_positions,0.8,2,1,75.0,75.0,[],False,False
+a00185,p12_body_positions_s6,Explain how to properly clean a window.,body_positions,0.8,6,1,15.0,15.0,[],False,False
+a00186,p28_body_positions_s0,How do you organize a successful team meeting?,body_positions,0.8,0,1,40.0,40.0,[],False,False
+a00187,p9_body_positions_s13,Explain how to organize your schedule.,body_positions,0.8,13,1,80.0,80.0,[],False,False
+a00188,p28_body_positions_s8,How do you organize a successful team meeting?,body_positions,0.8,8,1,10.0,10.0,[],False,False
+a00189,p0_body_positions_s12,Explain how to add two fractions.,body_positions,0.8,12,1,40.0,40.0,[],False,False
+a00190,p2_body_positions_s13,Explain how to calculate probability.,body_positions,0.8,13,1,40.0,40.0,[],False,False
+a00191,p6_body_positions_s15,Explain how to darn a hole in a sock.,body_positions,0.8,15,1,20.0,20.0,[],False,False
+a00192,p22_body_positions_s19,How do you calculate the volume of different shapes?,body_positions,0.8,19,1,5.0,5.0,[],False,False
+a00193,p27_body_positions_s18,How do you make a perfect omelette?,body_positions,0.8,18,1,3.0,3.0,[],False,False
+a00194,p26_body_positions_s0,How do you make a good cup of coffee?,body_positions,0.8,0,1,8.0,8.0,[],False,False
+a00195,p12_body_positions_s8,Explain how to properly clean a window.,body_positions,0.8,8,1,12.0,12.0,[],False,False
+a00196,p32_body_positions_s19,How do you properly wash and dry clothes?,body_positions,0.8,19,1,10.0,10.0,[],False,False
+a00197,p32_body_positions_s2,How do you properly wash and dry clothes?,body_positions,0.8,2,1,22.0,22.0,[],False,False
+a00198,p6_body_positions_s7,Explain how to darn a hole in a sock.,body_positions,0.8,7,1,4.0,4.0,[],False,False
+a00199,p15_body_positions_s17,Explain how to write a business proposal.,body_positions,0.8,17,1,18.0,18.0,[],False,False
+a00200,p8_body_positions_s0,Explain how to organize your email inbox.,body_positions,0.8,0,1,8.0,8.0,[],False,False
+a00201,p5_body_positions_s0,Explain how to create a strong password.,body_positions,0.8,0,1,35.0,35.0,[],False,False
+a00202,p29_body_positions_s14,How do you perform basic first aid?,body_positions,0.8,14,1,15.0,15.0,[],False,False
+a00203,p29_body_positions_s18,How do you perform basic first aid?,body_positions,0.8,18,1,18.0,18.0,[],False,False
+a00204,p28_body_positions_s1,How do you organize a successful team meeting?,body_positions,0.8,1,1,7.0,7.0,[],False,False
+a00205,p25_body_positions_s0,How do you make a basic budget?,body_positions,0.8,0,1,28.0,28.0,[],False,False
+a00206,p27_body_positions_s8,How do you make a perfect omelette?,body_positions,0.8,8,1,10.0,10.0,[],False,False
+a00207,p4_body_positions_s4,Explain how to change a bike tire.,body_positions,0.8,4,1,4.0,4.0,[],False,False
+a00208,p10_body_positions_s9,Explain how to plan a party.,body_positions,0.8,9,1,6.0,6.0,[],False,False
+a00209,p18_body_positions_s13,Explain how to write a thank you note.,body_positions,0.8,13,1,20.0,20.0,[],False,False
+a00210,p6_body_positions_s5,Explain how to darn a hole in a sock.,body_positions,0.8,5,1,5.0,5.0,[],False,False
+a00211,p31_body_positions_s5,How do you properly iron clothes?,body_positions,0.8,5,1,18.0,18.0,[],False,False
+a00212,p11_body_positions_s16,Explain how to properly clean a kitchen.,body_positions,0.8,16,1,24.0,24.0,[],False,False
+a00213,p2_body_positions_s15,Explain how to calculate probability.,body_positions,0.8,15,1,7.0,7.0,[],False,False
+a00214,p10_body_positions_s10,Explain how to plan a party.,body_positions,0.8,10,1,8.0,8.0,[],False,False
+a00215,p0_body_positions_s1,Explain how to add two fractions.,body_positions,0.8,1,1,42.0,42.0,[],False,False
+a00216,p7_body_positions_s8,Explain how to organize a closet.,body_positions,0.8,8,1,28.0,28.0,[],False,False
+a00217,p33_body_positions_s12,How do you properly wash dishes by hand?,body_positions,0.8,12,1,25.0,25.0,[],False,False
+a00218,p12_body_positions_s13,Explain how to properly clean a window.,body_positions,0.8,13,1,22.0,22.0,[],False,False
+a00219,p21_body_positions_s2,How do you calculate the area of irregular shapes?,body_positions,0.8,2,1,6.0,6.0,[],False,False
+a00220,p17_body_positions_s10,Explain how to write a resume.,body_positions,0.8,10,1,22.0,22.0,[],False,False
+a00221,p4_body_positions_s12,Explain how to change a bike tire.,body_positions,0.8,12,1,12.0,12.0,[],False,False
+a00222,p18_body_positions_s11,Explain how to write a thank you note.,body_positions,0.8,11,1,24.0,24.0,[],False,False
+a00223,p33_body_positions_s10,How do you properly wash dishes by hand?,body_positions,0.8,10,1,28.0,28.0,[],False,False
+a00224,p4_body_positions_s10,Explain how to change a bike tire.,body_positions,0.8,10,1,18.0,18.0,[],False,False
+a00225,p21_body_positions_s18,How do you calculate the area of irregular shapes?,body_positions,0.8,18,1,12.0,12.0,[],False,False
+a00226,p23_body_positions_s15,How do you conduct an effective job interview?,body_positions,0.8,15,1,32.0,32.0,[],False,False
+a00227,p31_body_positions_s9,How do you properly iron clothes?,body_positions,0.8,9,1,20.0,20.0,[],False,False
+a00228,p18_body_positions_s6,Explain how to write a thank you note.,body_positions,0.8,6,1,25.0,25.0,[],False,False
+a00229,p7_body_positions_s16,Explain how to organize a closet.,body_positions,0.8,16,1,26.0,26.0,[],False,False
+a00230,p32_body_positions_s3,How do you properly wash and dry clothes?,body_positions,0.8,3,1,24.0,24.0,[],False,False
+a00231,p1_body_positions_s5,Explain how to calculate averages.,body_positions,0.8,5,1,32.0,32.0,[],False,False
+a00232,p22_body_positions_s7,How do you calculate the volume of different shapes?,body_positions,0.8,7,1,20.0,20.0,[],False,False
+a00233,p26_body_positions_s17,How do you make a good cup of coffee?,body_positions,0.8,17,1,22.0,22.0,[],False,False
+a00234,p23_body_positions_s2,How do you conduct an effective job interview?,body_positions,0.8,2,1,34.0,34.0,[],False,False
+a00235,p15_body_positions_s0,Explain how to write a business proposal.,body_positions,0.8,0,1,28.0,28.0,[],False,False
+a00236,p10_body_positions_s11,Explain how to plan a party.,body_positions,0.8,11,1,25.0,25.0,[],False,False
+a00237,p14_body_positions_s4,Explain how to start composting.,body_positions,0.8,4,1,22.0,22.0,[],False,False
+a00238,p15_body_positions_s14,Explain how to write a business proposal.,body_positions,0.8,14,1,30.0,30.0,[],False,False
+a00239,p3_body_positions_s10,Explain how to calculate the square root of a number.,body_positions,0.8,10,1,18.0,18.0,[],False,False
+a00240,p16_body_positions_s14,Explain how to write a research paper.,body_positions,0.8,14,1,15.0,15.0,[],False,False
+a00241,p11_body_positions_s6,Explain how to properly clean a kitchen.,body_positions,0.8,6,1,20.0,20.0,[],False,False
+a00242,p9_body_positions_s3,Explain how to organize your schedule.,body_positions,0.8,3,1,30.0,30.0,[],False,False
+a00243,p32_body_positions_s7,How do you properly wash and dry clothes?,body_positions,0.8,7,1,20.0,20.0,[],False,False
+a00244,p1_body_positions_s11,Explain how to calculate averages.,body_positions,0.8,11,1,25.0,25.0,[],False,False
+a00245,p15_body_positions_s15,Explain how to write a business proposal.,body_positions,0.8,15,1,15.0,15.0,[],False,False
+a00246,p29_body_positions_s16,How do you perform basic first aid?,body_positions,0.8,16,1,25.0,25.0,[],False,False
+a00247,p31_body_positions_s8,How do you properly iron clothes?,body_positions,0.8,8,1,20.0,20.0,[],False,False
+a00248,p36_body_positions_s11,How do you write a business plan?,body_positions,0.8,11,1,15.0,15.0,[],False,False
+a00249,p25_body_positions_s14,How do you make a basic budget?,body_positions,0.8,14,1,20.0,20.0,[],False,False
+a00250,p34_body_positions_s16,How do you solve a Rubik's cube?,body_positions,0.8,16,1,10.0,10.0,[],False,False
+a00251,p4_body_positions_s16,Explain how to change a bike tire.,body_positions,0.8,16,1,15.0,15.0,[],False,False
+a00252,p24_body_positions_s1,How do you give an effective presentation?,body_positions,0.8,1,1,25.0,25.0,[],False,False
+a00253,p36_body_positions_s9,How do you write a business plan?,body_positions,0.8,9,1,15.0,15.0,[],False,False
+a00254,p29_body_positions_s17,How do you perform basic first aid?,body_positions,0.8,17,1,15.0,15.0,[],False,False
+a00255,p25_body_positions_s9,How do you make a basic budget?,body_positions,0.8,9,1,20.0,20.0,[],False,False
+a00256,p10_body_positions_s0,Explain how to plan a party.,body_positions,0.8,0,1,20.0,20.0,[],False,False
+a00257,p31_body_positions_s6,How do you properly iron clothes?,body_positions,0.8,6,1,20.0,20.0,[],False,False
+a00258,p8_body_positions_s9,Explain how to organize your email inbox.,body_positions,0.8,9,1,15.0,15.0,[],False,False
+a00259,p18_body_positions_s2,Explain how to write a thank you note.,body_positions,0.8,2,1,15.0,15.0,[],False,False
+a00260,p24_body_positions_s17,How do you give an effective presentation?,body_positions,0.8,17,1,25.0,25.0,[],False,False
+a00261,p16_body_positions_s8,Explain how to write a research paper.,body_positions,0.8,8,1,20.0,20.0,[],False,False
+a00262,p21_body_positions_s15,How do you calculate the area of irregular shapes?,body_positions,0.8,15,1,10.0,10.0,[],False,False
+a00263,p17_body_positions_s12,Explain how to write a resume.,body_positions,0.8,12,1,15.0,15.0,[],False,False
+a00264,p34_body_positions_s6,How do you solve a Rubik's cube?,body_positions,0.8,6,1,10.0,10.0,[],False,False
+a00265,p27_body_positions_s4,How do you make a perfect omelette?,body_positions,0.8,4,1,15.0,15.0,[],False,False
+a00266,p17_body_positions_s0,Explain how to write a resume.,body_positions,0.8,0,1,15.0,15.0,[],False,False
+a00267,p11_body_positions_s11,Explain how to properly clean a kitchen.,body_positions,0.8,11,1,20.0,20.0,[],False,False
+a00268,p35_body_positions_s1,How do you solve quadratic equations?,body_positions,0.8,1,1,10.0,10.0,[],False,False
+a00269,p11_body_positions_s12,Explain how to properly clean a kitchen.,body_positions,0.8,12,1,25.0,25.0,[],False,False
+a00270,p20_body_positions_s14,How do you calculate percentages?,body_positions,0.8,14,1,35.0,35.0,[],False,False
+a00271,p10_body_positions_s8,Explain how to plan a party.,body_positions,0.8,8,1,20.0,20.0,[],False,False
+a00272,p19_body_positions_s9,How do you calculate compound interest?,body_positions,0.8,9,1,10.0,10.0,[],False,False
+a00273,p28_body_positions_s3,How do you organize a successful team meeting?,body_positions,0.8,3,1,20.0,20.0,[],False,False
+a00274,p25_body_positions_s16,How do you make a basic budget?,body_positions,0.8,16,1,20.0,20.0,[],False,False
+a00275,p21_body_positions_s14,How do you calculate the area of irregular shapes?,body_positions,0.8,14,1,20.0,20.0,[],False,False
+a00276,p34_body_positions_s9,How do you solve a Rubik's cube?,body_positions,0.8,9,1,10.0,10.0,[],False,False
+a00277,p24_body_positions_s6,How do you give an effective presentation?,body_positions,0.8,6,1,25.0,25.0,[],False,False
+a00278,p32_body_positions_s9,How do you properly wash and dry clothes?,body_positions,0.8,9,1,20.0,20.0,[],False,False
+a00279,p19_body_positions_s3,How do you calculate compound interest?,body_positions,0.8,3,1,10.0,10.0,[],False,False
+a00280,p4_body_positions_s2,Explain how to change a bike tire.,body_positions,0.8,2,1,15.0,15.0,[],False,False
+a00281,p21_body_positions_s12,How do you calculate the area of irregular shapes?,body_positions,0.8,12,1,25.0,25.0,[],False,False
+a00282,p27_body_positions_s19,How do you make a perfect omelette?,body_positions,0.8,19,1,15.0,15.0,[],False,False
+a00283,p11_body_positions_s18,Explain how to properly clean a kitchen.,body_positions,0.8,18,1,20.0,20.0,[],False,False
+a00284,p21_body_positions_s4,How do you calculate the area of irregular shapes?,body_positions,0.8,4,1,20.0,20.0,[],False,False
+a00285,p26_body_positions_s18,How do you make a good cup of coffee?,body_positions,0.8,18,1,15.0,15.0,[],False,False
+a00286,p10_body_positions_s13,Explain how to plan a party.,body_positions,0.8,13,1,20.0,20.0,[],False,False
+a00287,p28_body_positions_s14,How do you organize a successful team meeting?,body_positions,0.8,14,1,25.0,25.0,[],False,False
+a00288,p31_body_positions_s10,How do you properly iron clothes?,body_positions,0.8,10,1,20.0,20.0,[],False,False
+a00289,p19_body_positions_s18,How do you calculate compound interest?,body_positions,0.8,18,1,15.0,15.0,[],False,False
+a00290,p15_body_positions_s3,Explain how to write a business proposal.,body_positions,0.8,3,1,10.0,10.0,[],False,False
+a00291,p14_body_positions_s6,Explain how to start composting.,body_positions,0.8,6,1,15.0,15.0,[],False,False
+a00292,p12_body_positions_s3,Explain how to properly clean a window.,body_positions,0.8,3,1,20.0,20.0,[],False,False
+a00293,p25_body_positions_s19,How do you make a basic budget?,body_positions,0.8,19,1,15.0,15.0,[],False,False
+a00294,p6_body_positions_s13,Explain how to darn a hole in a sock.,body_positions,0.8,13,1,10.0,10.0,[],False,False
+a00295,p28_body_positions_s6,How do you organize a successful team meeting?,body_positions,0.8,6,1,25.0,25.0,[],False,False
+a00296,p31_body_positions_s3,How do you properly iron clothes?,body_positions,0.8,3,1,50.0,50.0,[],False,False
+a00297,p16_body_positions_s13,Explain how to write a research paper.,body_positions,0.8,13,1,20.0,20.0,[],False,False
+a00298,p35_body_positions_s5,How do you solve quadratic equations?,body_positions,0.8,5,1,5.0,5.0,[],False,False
+a00299,p37_body_positions_s2,How do you write a professional email?,body_positions,0.8,2,1,10.0,10.0,[],False,False
+a00300,p33_body_positions_s14,How do you properly wash dishes by hand?,body_positions,0.8,14,1,55.0,55.0,[],False,False
+a00301,p13_body_positions_s18,Explain how to properly vacuum a room.,body_positions,0.8,18,1,60.0,60.0,[],False,False
+a00302,p11_body_positions_s9,Explain how to properly clean a kitchen.,body_positions,0.8,9,1,50.0,50.0,[],False,False
+a00303,p28_body_positions_s5,How do you organize a successful team meeting?,body_positions,0.8,5,1,20.0,20.0,[],False,False
+a00304,p23_body_positions_s6,How do you conduct an effective job interview?,body_positions,0.8,6,1,35.0,35.0,[],False,False
+a00305,p22_body_positions_s9,How do you calculate the volume of different shapes?,body_positions,0.8,9,1,5.0,5.0,[],False,False
+a00306,p16_body_positions_s3,Explain how to write a research paper.,body_positions,0.8,3,1,55.0,55.0,[],False,False
+a00307,p8_body_positions_s18,Explain how to organize your email inbox.,body_positions,0.8,18,1,25.0,25.0,[],False,False
+a00308,p37_body_positions_s5,How do you write a professional email?,body_positions,0.8,5,1,12.0,12.0,[],False,False
+a00309,p30_body_positions_s11,How do you properly fold a fitted sheet?,body_positions,0.8,11,1,40.0,40.0,[],False,False
+a00310,p35_body_positions_s4,How do you solve quadratic equations?,body_positions,0.8,4,1,8.0,8.0,[],False,False
+a00311,p14_body_positions_s2,Explain how to start composting.,body_positions,0.8,2,1,5.0,5.0,[],False,False
+a00312,p23_body_positions_s3,How do you conduct an effective job interview?,body_positions,0.8,3,1,50.0,50.0,[],False,False
+a00313,p20_body_positions_s5,How do you calculate percentages?,body_positions,0.8,5,1,70.0,70.0,[],False,False
+a00314,p12_body_positions_s14,Explain how to properly clean a window.,body_positions,0.8,14,1,55.0,55.0,[],False,False
+a00315,p7_body_positions_s15,Explain how to organize a closet.,body_positions,0.8,15,1,55.0,55.0,[],False,False
+a00316,p30_body_positions_s8,How do you properly fold a fitted sheet?,body_positions,0.8,8,1,45.0,45.0,[],False,False
+a00317,p36_body_positions_s6,How do you write a business plan?,body_positions,0.8,6,1,25.0,25.0,[],False,False
+a00318,p26_body_positions_s13,How do you make a good cup of coffee?,body_positions,0.8,13,1,20.0,20.0,[],False,False
+a00319,p0_body_positions_s16,Explain how to add two fractions.,body_positions,0.8,16,1,15.0,15.0,[],False,False
+a00320,p1_body_positions_s18,Explain how to calculate averages.,body_positions,0.8,18,1,50.0,50.0,[],False,False
+a00321,p25_body_positions_s5,How do you make a basic budget?,body_positions,0.8,5,1,40.0,40.0,[],False,False
+a00322,p3_body_positions_s16,Explain how to calculate the square root of a number.,body_positions,0.8,16,1,10.0,10.0,[],False,False
+a00323,p19_body_positions_s12,How do you calculate compound interest?,body_positions,0.8,12,1,20.0,20.0,[],False,False
+a00324,p25_body_positions_s18,How do you make a basic budget?,body_positions,0.8,18,1,55.0,55.0,[],False,False
+a00325,p22_body_positions_s18,How do you calculate the volume of different shapes?,body_positions,0.8,18,1,10.0,10.0,[],False,False
+a00326,p37_body_positions_s7,How do you write a professional email?,body_positions,0.8,7,1,55.0,55.0,[],False,False
+a00327,p18_body_positions_s12,Explain how to write a thank you note.,body_positions,0.8,12,1,60.0,60.0,[],False,False
+a00328,p23_body_positions_s17,How do you conduct an effective job interview?,body_positions,0.8,17,1,60.0,60.0,[],False,False
+a00329,p28_body_positions_s15,How do you organize a successful team meeting?,body_positions,0.8,15,1,50.0,50.0,[],False,False
+a00330,p23_body_positions_s5,How do you conduct an effective job interview?,body_positions,0.8,5,1,75.0,75.0,[],False,False
+a00331,p12_body_positions_s4,Explain how to properly clean a window.,body_positions,0.8,4,1,55.0,55.0,[],False,False
+a00332,p35_body_positions_s13,How do you solve quadratic equations?,body_positions,0.8,13,1,5.0,5.0,[],False,False
+a00333,p26_body_positions_s1,How do you make a good cup of coffee?,body_positions,0.8,1,1,30.0,30.0,[],False,False
+a00334,p19_body_positions_s15,How do you calculate compound interest?,body_positions,0.8,15,1,20.0,20.0,[],False,False
+a00335,p7_body_positions_s13,Explain how to organize a closet.,body_positions,0.8,13,1,55.0,55.0,[],False,False
+a00336,p3_body_positions_s4,Explain how to calculate the square root of a number.,body_positions,0.8,4,1,5.0,5.0,[],False,False
+a00337,p32_body_positions_s6,How do you properly wash and dry clothes?,body_positions,0.8,6,1,15.0,15.0,[],False,False
+a00338,p37_body_positions_s10,How do you write a professional email?,body_positions,0.8,10,1,8.0,8.0,[],False,False
+a00339,p16_body_positions_s5,Explain how to write a research paper.,body_positions,0.8,5,1,20.0,20.0,[],False,False
+a00340,p24_body_positions_s18,How do you give an effective presentation?,body_positions,0.8,18,1,15.0,15.0,[],False,False
+a00341,p3_body_positions_s18,Explain how to calculate the square root of a number.,body_positions,0.8,18,1,5.0,5.0,[],False,False
+a00342,p19_body_positions_s19,How do you calculate compound interest?,body_positions,0.8,19,1,25.0,25.0,[],False,False
+a00343,p0_body_positions_s5,Explain how to add two fractions.,body_positions,0.8,5,1,5.0,5.0,[],False,False
+a00344,p9_body_positions_s8,Explain how to organize your schedule.,body_positions,0.8,8,1,65.0,65.0,[],False,False
+a00345,p34_body_positions_s8,How do you solve a Rubik's cube?,body_positions,0.8,8,1,8.0,8.0,[],False,False
+a00346,p13_body_positions_s15,Explain how to properly vacuum a room.,body_positions,0.8,15,1,55.0,55.0,[],False,False
+a00347,p11_body_positions_s4,Explain how to properly clean a kitchen.,body_positions,0.8,4,1,55.0,55.0,[],False,False
+a00348,p10_body_positions_s2,Explain how to plan a party.,body_positions,0.8,2,1,35.0,35.0,[],False,False
+a00349,p22_body_positions_s15,How do you calculate the volume of different shapes?,body_positions,0.8,15,1,18.0,18.0,[],False,False
+a00350,p25_body_positions_s13,How do you make a basic budget?,body_positions,0.8,13,1,60.0,60.0,[],False,False
+a00351,p12_body_positions_s19,Explain how to properly clean a window.,body_positions,0.8,19,1,55.0,55.0,[],False,False
+a00352,p8_body_positions_s12,Explain how to organize your email inbox.,body_positions,0.8,12,1,65.0,65.0,[],False,False
+a00353,p29_body_positions_s11,How do you perform basic first aid?,body_positions,0.8,11,1,25.0,25.0,[],False,False
+a00354,p35_body_positions_s17,How do you solve quadratic equations?,body_positions,0.8,17,1,12.0,12.0,[],False,False
+a00355,p8_body_positions_s8,Explain how to organize your email inbox.,body_positions,0.8,8,1,65.0,65.0,[],False,False
+a00356,p31_body_positions_s0,How do you properly iron clothes?,body_positions,0.8,0,1,55.0,55.0,[],False,False
+a00357,p3_body_positions_s19,Explain how to calculate the square root of a number.,body_positions,0.8,19,1,8.0,8.0,[],False,False
+a00358,p35_body_positions_s19,How do you solve quadratic equations?,body_positions,0.8,19,1,20.0,20.0,[],False,False
+a00359,p0_body_positions_s6,Explain how to add two fractions.,body_positions,0.8,6,1,25.0,25.0,[],False,False
+a00360,p33_body_positions_s3,How do you properly wash dishes by hand?,body_positions,0.8,3,1,65.0,65.0,[],False,False
+a00361,p0_body_positions_s7,Explain how to add two fractions.,body_positions,0.8,7,1,35.0,35.0,[],False,False
+a00362,p21_body_positions_s6,How do you calculate the area of irregular shapes?,body_positions,0.8,6,1,20.0,20.0,[],False,False
+a00363,p20_body_positions_s10,How do you calculate percentages?,body_positions,0.8,10,1,55.0,55.0,[],False,False
+a00364,p13_body_positions_s5,Explain how to properly vacuum a room.,body_positions,0.8,5,1,55.0,55.0,[],False,False
+a00365,p14_body_positions_s17,Explain how to start composting.,body_positions,0.8,17,1,18.0,18.0,[],False,False
+a00366,p24_body_positions_s19,How do you give an effective presentation?,body_positions,0.8,19,1,55.0,55.0,[],False,False
+a00367,p37_body_positions_s15,How do you write a professional email?,body_positions,0.8,15,1,30.0,30.0,[],False,False
+a00368,p16_body_positions_s10,Explain how to write a research paper.,body_positions,0.8,10,1,18.0,18.0,[],False,False
+a00369,p7_body_positions_s1,Explain how to organize a closet.,body_positions,0.8,1,1,70.0,70.0,[],False,False
+a00370,p18_body_positions_s10,Explain how to write a thank you note.,body_positions,0.8,10,1,20.0,20.0,[],False,False
+a00371,p19_body_positions_s0,How do you calculate compound interest?,body_positions,0.8,0,1,30.0,30.0,[],False,False
+a00372,p9_body_positions_s10,Explain how to organize your schedule.,body_positions,0.8,10,1,65.0,65.0,[],False,False
+a00373,p11_body_positions_s8,Explain how to properly clean a kitchen.,body_positions,0.8,8,1,55.0,55.0,[],False,False
+a00374,p29_body_positions_s3,How do you perform basic first aid?,body_positions,0.8,3,1,35.0,35.0,[],False,False
+a00375,p22_body_positions_s14,How do you calculate the volume of different shapes?,body_positions,0.8,14,1,12.0,12.0,[],False,False
+a00376,p36_body_positions_s3,How do you write a business plan?,body_positions,0.8,3,1,50.0,50.0,[],False,False
+a00377,p35_body_positions_s7,How do you solve quadratic equations?,body_positions,0.8,7,1,15.0,15.0,[],False,False
+a00378,p7_body_positions_s5,Explain how to organize a closet.,body_positions,0.8,5,1,50.0,50.0,[],False,False
+a00379,p36_body_positions_s18,How do you write a business plan?,body_positions,0.8,18,1,30.0,30.0,[],False,False
+a00380,p10_body_positions_s15,Explain how to plan a party.,body_positions,0.8,15,1,45.0,45.0,[],False,False
+a00381,p10_body_positions_s19,Explain how to plan a party.,body_positions,0.8,19,1,50.0,50.0,[],False,False
+a00382,p32_body_positions_s12,How do you properly wash and dry clothes?,body_positions,0.8,12,1,70.0,70.0,[],False,False
+a00383,p26_body_positions_s19,How do you make a good cup of coffee?,body_positions,0.8,19,1,18.0,18.0,[],False,False
+a00384,p0_body_positions_s18,Explain how to add two fractions.,body_positions,0.8,18,1,28.0,28.0,[],False,False
+a00385,p9_body_positions_s4,Explain how to organize your schedule.,body_positions,0.8,4,1,5.0,5.0,[],False,False
+a00386,p32_body_positions_s15,How do you properly wash and dry clothes?,body_positions,0.8,15,1,18.0,18.0,[],False,False
+a00387,p6_body_positions_s17,Explain how to darn a hole in a sock.,body_positions,0.8,17,1,8.0,8.0,[],False,False
+a00388,p8_body_positions_s17,Explain how to organize your email inbox.,body_positions,0.8,17,1,15.0,15.0,[],False,False
+a00389,p24_body_positions_s14,How do you give an effective presentation?,body_positions,0.8,14,1,22.0,22.0,[],False,False
+a00390,p36_body_positions_s0,How do you write a business plan?,body_positions,0.8,0,1,20.0,20.0,[],False,False
+a00391,p17_body_positions_s13,Explain how to write a resume.,body_positions,0.8,13,1,8.0,8.0,[],False,False
+a00392,p12_body_positions_s2,Explain how to properly clean a window.,body_positions,0.8,2,1,32.0,32.0,[],False,False
+a00393,p32_body_positions_s4,How do you properly wash and dry clothes?,body_positions,0.8,4,1,35.0,35.0,[],False,False
+a00394,p27_body_positions_s9,How do you make a perfect omelette?,body_positions,0.8,9,1,12.0,12.0,[],False,False
+a00395,p24_body_positions_s0,How do you give an effective presentation?,body_positions,0.8,0,1,25.0,25.0,[],False,False
+a00396,p30_body_positions_s6,How do you properly fold a fitted sheet?,body_positions,0.8,6,1,8.0,8.0,[],False,False
+a00397,p17_body_positions_s14,Explain how to write a resume.,body_positions,0.8,14,1,8.0,8.0,[],False,False
+a00398,p36_body_positions_s12,How do you write a business plan?,body_positions,0.8,12,1,18.0,18.0,[],False,False
+a00399,p22_body_positions_s4,How do you calculate the volume of different shapes?,body_positions,0.8,4,1,12.0,12.0,[],False,False
+a00400,p36_body_positions_s16,How do you write a business plan?,body_positions,0.8,16,1,15.0,15.0,[],False,False
+a00401,p1_body_positions_s10,Explain how to calculate averages.,body_positions,0.8,10,1,42.0,42.0,[],False,False
+a00402,p12_body_positions_s15,Explain how to properly clean a window.,body_positions,0.8,15,1,28.0,28.0,[],False,False
+a00403,p8_body_positions_s13,Explain how to organize your email inbox.,body_positions,0.8,13,1,18.0,18.0,[],False,False
+a00404,p30_body_positions_s7,How do you properly fold a fitted sheet?,body_positions,0.8,7,1,8.0,8.0,[],False,False
+a00405,p5_body_positions_s16,Explain how to create a strong password.,body_positions,0.8,16,1,10.0,10.0,[],False,False
+a00406,p34_body_positions_s5,How do you solve a Rubik's cube?,body_positions,0.8,5,1,15.0,15.0,[],False,False
+a00407,p2_body_positions_s1,Explain how to calculate probability.,body_positions,0.8,1,1,38.0,38.0,[],False,False
+a00408,p2_body_positions_s8,Explain how to calculate probability.,body_positions,0.8,8,1,40.0,40.0,[],False,False
+a00409,p37_body_positions_s14,How do you write a professional email?,body_positions,0.8,14,1,22.0,22.0,[],False,False
+a00410,p21_body_positions_s7,How do you calculate the area of irregular shapes?,body_positions,0.8,7,1,18.0,18.0,[],False,False
+a00411,p18_body_positions_s0,Explain how to write a thank you note.,body_positions,0.8,0,1,10.0,10.0,[],False,False
+a00412,p36_body_positions_s19,How do you write a business plan?,body_positions,0.8,19,1,12.0,12.0,[],False,False
+a00413,p19_body_positions_s1,How do you calculate compound interest?,body_positions,0.8,1,1,20.0,20.0,[],False,False
+a00414,p28_body_positions_s9,How do you organize a successful team meeting?,body_positions,0.8,9,1,15.0,15.0,[],False,False
+a00415,p25_body_positions_s17,How do you make a basic budget?,body_positions,0.8,17,1,25.0,25.0,[],False,False
+a00416,p24_body_positions_s7,How do you give an effective presentation?,body_positions,0.8,7,1,28.0,28.0,[],False,False
+a00417,p33_body_positions_s6,How do you properly wash dishes by hand?,body_positions,0.8,6,1,48.0,48.0,[],False,False
+a00418,p19_body_positions_s6,How do you calculate compound interest?,body_positions,0.8,6,1,18.0,18.0,[],False,False
+a00419,p7_body_positions_s2,Explain how to organize a closet.,body_positions,0.8,2,1,12.0,12.0,[],False,False
+a00420,p6_body_positions_s19,Explain how to darn a hole in a sock.,body_positions,0.8,19,1,8.0,8.0,[],False,False
+a00421,p27_body_positions_s2,How do you make a perfect omelette?,body_positions,0.8,2,1,15.0,15.0,[],False,False
+a00422,p2_body_positions_s2,Explain how to calculate probability.,body_positions,0.8,2,1,42.0,42.0,[],False,False
+a00423,p32_body_positions_s18,How do you properly wash and dry clothes?,body_positions,0.8,18,1,52.0,52.0,[],False,False
+a00424,p4_body_positions_s0,Explain how to change a bike tire.,body_positions,0.8,0,1,10.0,10.0,[],False,False
+a00425,p30_body_positions_s17,How do you properly fold a fitted sheet?,body_positions,0.8,17,1,8.0,8.0,[],False,False
+a00426,p13_body_positions_s16,Explain how to properly vacuum a room.,body_positions,0.8,16,1,52.0,52.0,[],False,False
+a00427,p25_body_positions_s1,How do you make a basic budget?,body_positions,0.8,1,1,28.0,28.0,[],False,False
+a00428,p3_body_positions_s12,Explain how to calculate the square root of a number.,body_positions,0.8,12,1,18.0,18.0,[],False,False
+a00429,p32_body_positions_s17,How do you properly wash and dry clothes?,body_positions,0.8,17,1,50.0,50.0,[],False,False
+a00430,p12_body_positions_s10,Explain how to properly clean a window.,body_positions,0.8,10,1,48.0,48.0,[],False,False
+a00431,p8_body_positions_s1,Explain how to organize your email inbox.,body_positions,0.8,1,1,20.0,20.0,[],False,False
+a00432,p9_body_positions_s14,Explain how to organize your schedule.,body_positions,0.8,14,1,20.0,20.0,[],False,False
+a00433,p34_body_positions_s11,How do you solve a Rubik's cube?,body_positions,0.8,11,1,5.0,5.0,[],False,False
+a00434,p10_body_positions_s7,Explain how to plan a party.,body_positions,0.8,7,1,25.0,25.0,[],False,False
+a00435,p15_body_positions_s7,Explain how to write a business proposal.,body_positions,0.8,7,1,30.0,30.0,[],False,False
+a00436,p17_body_positions_s4,Explain how to write a resume.,body_positions,0.8,4,1,5.0,5.0,[],False,False
+a00437,p11_body_positions_s7,Explain how to properly clean a kitchen.,body_positions,0.8,7,1,35.0,35.0,[],False,False
+a00438,p15_body_positions_s13,Explain how to write a business proposal.,body_positions,0.8,13,1,40.0,40.0,[],False,False
+a00439,p32_body_positions_s5,How do you properly wash and dry clothes?,body_positions,0.8,5,1,40.0,40.0,[],False,False
+a00440,p16_body_positions_s18,Explain how to write a research paper.,body_positions,0.8,18,1,35.0,35.0,[],False,False
+a00441,p18_body_positions_s4,Explain how to write a thank you note.,body_positions,0.8,4,1,65.0,65.0,[],False,False
+a00442,p20_body_positions_s16,How do you calculate percentages?,body_positions,0.8,16,1,50.0,50.0,[],False,False
+a00443,p35_body_positions_s18,How do you solve quadratic equations?,body_positions,0.8,18,1,5.0,5.0,[],False,False
+a00444,p20_body_positions_s17,How do you calculate percentages?,body_positions,0.8,17,1,75.0,75.0,[],False,False
+a00445,p13_body_positions_s6,Explain how to properly vacuum a room.,body_positions,0.8,6,1,55.0,55.0,[],False,False
+a00446,p7_body_positions_s17,Explain how to organize a closet.,body_positions,0.8,17,1,45.0,45.0,[],False,False
+a00447,p31_body_positions_s19,How do you properly iron clothes?,body_positions,0.8,19,1,50.0,50.0,[],False,False
+a00448,p13_body_positions_s1,Explain how to properly vacuum a room.,body_positions,0.8,1,1,20.0,20.0,[],False,False
+a00449,p4_body_positions_s19,Explain how to change a bike tire.,body_positions,0.8,19,1,45.0,45.0,[],False,False
+a00450,p16_body_positions_s7,Explain how to write a research paper.,body_positions,0.8,7,1,60.0,60.0,[],False,False
+a00451,p3_body_positions_s11,Explain how to calculate the square root of a number.,body_positions,0.8,11,1,10.0,10.0,[],False,False
+a00452,p20_body_positions_s0,How do you calculate percentages?,body_positions,0.8,0,1,75.0,75.0,[],False,False
+a00453,p21_body_positions_s0,How do you calculate the area of irregular shapes?,body_positions,0.8,0,1,20.0,20.0,[],False,False
+a00454,p9_body_positions_s0,Explain how to organize your schedule.,body_positions,0.8,0,1,55.0,55.0,[],False,False
+a00455,p29_body_positions_s10,How do you perform basic first aid?,body_positions,0.8,10,1,40.0,40.0,[],False,False
+a00456,p37_body_positions_s6,How do you write a professional email?,body_positions,0.8,6,1,20.0,20.0,[],False,False
+a00457,p2_body_positions_s4,Explain how to calculate probability.,body_positions,0.8,4,1,70.0,70.0,[],False,False
+a00458,p29_body_positions_s2,How do you perform basic first aid?,body_positions,0.8,2,1,15.0,15.0,[],False,False
+a00459,p1_body_positions_s2,Explain how to calculate averages.,body_positions,0.8,2,1,65.0,65.0,[],False,False
+a00460,p7_body_positions_s7,Explain how to organize a closet.,body_positions,0.8,7,1,55.0,55.0,[],False,False
+a00461,p15_body_positions_s8,Explain how to write a business proposal.,body_positions,0.8,8,1,50.0,50.0,[],False,False
+a00462,p25_body_positions_s6,How do you make a basic budget?,body_positions,0.8,6,1,45.0,45.0,[],False,False
+a00463,p20_body_positions_s1,How do you calculate percentages?,body_positions,0.8,1,1,70.0,70.0,[],False,False
+a00464,p34_body_positions_s19,How do you solve a Rubik's cube?,body_positions,0.8,19,1,5.0,5.0,[],False,False
+a00465,p15_body_positions_s12,Explain how to write a business proposal.,body_positions,0.8,12,1,50.0,50.0,[],False,False
+a00466,p1_body_positions_s12,Explain how to calculate averages.,body_positions,0.8,12,1,60.0,60.0,[],False,False
+a00467,p4_body_positions_s18,Explain how to change a bike tire.,body_positions,0.8,18,1,45.0,45.0,[],False,False
+a00468,p21_body_positions_s5,How do you calculate the area of irregular shapes?,body_positions,0.8,5,1,25.0,25.0,[],False,False
+a00469,p28_body_positions_s7,How do you organize a successful team meeting?,body_positions,0.8,7,1,55.0,55.0,[],False,False
+a00470,p19_body_positions_s7,How do you calculate compound interest?,body_positions,0.8,7,1,5.0,5.0,[],False,False
+a00471,p19_body_positions_s11,How do you calculate compound interest?,body_positions,0.8,11,1,5.0,5.0,[],False,False
+a00472,p10_body_positions_s4,Explain how to plan a party.,body_positions,0.8,4,1,55.0,55.0,[],False,False
+a00473,p22_body_positions_s12,How do you calculate the volume of different shapes?,body_positions,0.8,12,1,15.0,15.0,[],False,False
+a00474,p5_body_positions_s8,Explain how to create a strong password.,body_positions,0.8,8,1,10.0,10.0,[],False,False
+a00475,p11_body_positions_s0,Explain how to properly clean a kitchen.,body_positions,0.8,0,1,60.0,60.0,[],False,False
+a00476,p37_body_positions_s17,How do you write a professional email?,body_positions,0.8,17,1,15.0,15.0,[],False,False
+a00477,p14_body_positions_s18,Explain how to start composting.,body_positions,0.8,18,1,50.0,50.0,[],False,False
+a00478,p8_body_positions_s14,Explain how to organize your email inbox.,body_positions,0.8,14,1,55.0,55.0,[],False,False
+a00479,p22_body_positions_s17,How do you calculate the volume of different shapes?,body_positions,0.8,17,1,5.0,5.0,[],False,False
+a00480,p21_body_positions_s1,How do you calculate the area of irregular shapes?,body_positions,0.8,1,1,15.0,15.0,[],False,False
+a00481,p10_body_positions_s16,Explain how to plan a party.,body_positions,0.8,16,1,20.0,20.0,[],False,False
+a00482,p30_body_positions_s14,How do you properly fold a fitted sheet?,body_positions,0.8,14,1,15.0,15.0,[],False,False
+a00483,p30_body_positions_s4,How do you properly fold a fitted sheet?,body_positions,0.8,4,1,15.0,15.0,[],False,False
+a00484,p16_body_positions_s11,Explain how to write a research paper.,body_positions,0.8,11,1,18.0,18.0,[],False,False
+a00485,p37_body_positions_s4,How do you write a professional email?,body_positions,0.8,4,1,18.0,18.0,[],False,False
+a00486,p6_body_positions_s3,Explain how to darn a hole in a sock.,body_positions,0.8,3,1,15.0,15.0,[],False,False
+a00487,p21_body_positions_s11,How do you calculate the area of irregular shapes?,body_positions,0.8,11,1,20.0,20.0,[],False,False
+a00488,p36_body_positions_s14,How do you write a business plan?,body_positions,0.8,14,1,18.0,18.0,[],False,False
+a00489,p31_body_positions_s16,How do you properly iron clothes?,body_positions,0.8,16,1,15.0,15.0,[],False,False
+a00490,p14_body_positions_s8,Explain how to start composting.,body_positions,0.8,8,1,15.0,15.0,[],False,False
+a00491,p1_body_positions_s4,Explain how to calculate averages.,body_positions,0.8,4,1,32.0,32.0,[],False,False
+a00492,p37_body_positions_s3,How do you write a professional email?,body_positions,0.8,3,1,18.0,18.0,[],False,False
+a00493,p0_body_positions_s13,Explain how to add two fractions.,body_positions,0.8,13,1,25.0,25.0,[],False,False
+a00494,p14_body_positions_s10,Explain how to start composting.,body_positions,0.8,10,1,35.0,35.0,[],False,False
+a00495,p12_body_positions_s5,Explain how to properly clean a window.,body_positions,0.8,5,1,18.0,18.0,[],False,False
+a00496,p16_body_positions_s4,Explain how to write a research paper.,body_positions,0.8,4,1,12.0,12.0,[],False,False
+a00497,p20_body_positions_s4,How do you calculate percentages?,body_positions,0.8,4,1,28.0,28.0,[],False,False
+a00498,p24_body_positions_s10,How do you give an effective presentation?,body_positions,0.8,10,1,32.0,32.0,[],False,False
+a00499,p18_body_positions_s7,Explain how to write a thank you note.,body_positions,0.8,7,1,15.0,15.0,[],False,False
+a00500,p30_body_positions_s13,How do you properly fold a fitted sheet?,body_positions,0.8,13,1,15.0,15.0,[],False,False
+a00501,p24_body_positions_s16,How do you give an effective presentation?,body_positions,0.8,16,1,35.0,35.0,[],False,False
+a00502,p3_body_positions_s15,Explain how to calculate the square root of a number.,body_positions,0.8,15,1,20.0,20.0,[],False,False
+a00503,p26_body_positions_s10,How do you make a good cup of coffee?,body_positions,0.8,10,1,18.0,18.0,[],False,False
+a00504,p25_body_positions_s12,How do you make a basic budget?,body_positions,0.8,12,1,25.0,25.0,[],False,False
+a00505,p9_body_positions_s5,Explain how to organize your schedule.,body_positions,0.8,5,1,20.0,20.0,[],False,False
+a00506,p16_body_positions_s6,Explain how to write a research paper.,body_positions,0.8,6,1,18.0,18.0,[],False,False
+a00507,p23_body_positions_s12,How do you conduct an effective job interview?,body_positions,0.8,12,1,50.0,50.0,[],False,False
+a00508,p8_body_positions_s16,Explain how to organize your email inbox.,body_positions,0.8,16,1,18.0,18.0,[],False,False
+a00509,p7_body_positions_s0,Explain how to organize a closet.,body_positions,0.8,0,1,18.0,18.0,[],False,False
+a00510,p35_body_positions_s6,How do you solve quadratic equations?,body_positions,0.8,6,1,18.0,18.0,[],False,False
+a00511,p32_body_positions_s16,How do you properly wash and dry clothes?,body_positions,0.8,16,1,30.0,30.0,[],False,False
+a00512,p2_body_positions_s10,Explain how to calculate probability.,body_positions,0.8,10,1,35.0,35.0,[],False,False
+a00513,p8_body_positions_s3,Explain how to organize your email inbox.,body_positions,0.8,3,1,18.0,18.0,[],False,False
+a00514,p20_body_positions_s8,How do you calculate percentages?,body_positions,0.8,8,1,32.0,32.0,[],False,False
+a00515,p0_body_positions_s14,Explain how to add two fractions.,body_positions,0.8,14,1,22.0,22.0,[],False,False
+a00516,p28_body_positions_s17,How do you organize a successful team meeting?,body_positions,0.8,17,1,25.0,25.0,[],False,False
+a00517,p14_body_positions_s16,Explain how to start composting.,body_positions,0.8,16,1,18.0,18.0,[],False,False
+a00518,p35_body_positions_s3,How do you solve quadratic equations?,body_positions,0.8,3,1,35.0,35.0,[],False,False
+a00519,p24_body_positions_s13,How do you give an effective presentation?,body_positions,0.8,13,1,38.0,38.0,[],False,False
+a00520,p32_body_positions_s14,How do you properly wash and dry clothes?,body_positions,0.8,14,1,32.0,32.0,[],False,False
+a00521,p0_body_positions_s0,Explain how to add two fractions.,body_positions,0.8,0,1,18.0,18.0,[],False,False
+a00522,p31_body_positions_s13,How do you properly iron clothes?,body_positions,0.8,13,1,25.0,25.0,[],False,False
+a00523,p22_body_positions_s2,How do you calculate the volume of different shapes?,body_positions,0.8,2,1,18.0,18.0,[],False,False
+a00524,p6_body_positions_s10,Explain how to darn a hole in a sock.,body_positions,0.8,10,1,18.0,18.0,[],False,False
+a00525,p37_body_positions_s16,How do you write a professional email?,body_positions,0.8,16,1,22.0,22.0,[],False,False
+a00526,p1_body_positions_s9,Explain how to calculate averages.,body_positions,0.8,9,1,32.0,32.0,[],False,False
+a00527,p22_body_positions_s1,How do you calculate the volume of different shapes?,body_positions,0.8,1,1,18.0,18.0,[],False,False
+a00528,p6_body_positions_s18,Explain how to darn a hole in a sock.,body_positions,0.8,18,1,8.0,8.0,[],False,False
+a00529,p0_body_positions_s10,Explain how to add two fractions.,body_positions,0.8,10,1,20.0,20.0,[],False,False
+a00530,p20_body_positions_s11,How do you calculate percentages?,body_positions,0.8,11,1,40.0,40.0,[],False,False
+a00531,p19_body_positions_s13,How do you calculate compound interest?,body_positions,0.8,13,1,12.0,12.0,[],False,False
+a00532,p32_body_positions_s0,How do you properly wash and dry clothes?,body_positions,0.8,0,1,75.0,75.0,[],False,False
+a00533,p26_body_positions_s12,How do you make a good cup of coffee?,body_positions,0.8,12,1,8.0,8.0,[],False,False
+a00534,p18_body_positions_s8,Explain how to write a thank you note.,body_positions,0.8,8,1,48.0,48.0,[],False,False
+a00535,p34_body_positions_s14,How do you solve a Rubik's cube?,body_positions,0.8,14,1,22.0,22.0,[],False,False
+a00536,p10_body_positions_s1,Explain how to plan a party.,body_positions,0.8,1,1,12.0,12.0,[],False,False
+a00537,p27_body_positions_s1,How do you make a perfect omelette?,body_positions,0.8,1,1,5.0,5.0,[],False,False
+a00538,p6_body_positions_s12,Explain how to darn a hole in a sock.,body_positions,0.8,12,1,18.0,18.0,[],False,False
+a00539,p16_body_positions_s1,Explain how to write a research paper.,body_positions,0.8,1,2,55.0,68.0,['Note: This is not a traditional way of writing a research paper'],True,True
+a00540,p8_body_positions_s7,Explain how to organize your email inbox.,body_positions,0.8,7,1,65.0,65.0,[],False,False
+a00541,p35_body_positions_s8,How do you solve quadratic equations?,body_positions,0.8,8,1,18.0,18.0,[],False,False
+a00542,p32_body_positions_s13,How do you properly wash and dry clothes?,body_positions,0.8,13,1,72.0,72.0,[],False,False
+a00543,p20_body_positions_s7,How do you calculate percentages?,body_positions,0.8,7,1,85.0,85.0,[],False,False
+a00544,p35_body_positions_s14,How do you solve quadratic equations?,body_positions,0.8,14,1,25.0,25.0,[],False,False
+a00545,p36_body_positions_s15,How do you write a business plan?,body_positions,0.8,15,1,28.0,28.0,[],False,False
+a00546,p5_body_positions_s3,Explain how to create a strong password.,body_positions,0.8,3,1,18.0,18.0,[],False,False
+a00547,p28_body_positions_s11,How do you organize a successful team meeting?,body_positions,0.8,11,1,68.0,68.0,[],False,False
+a00548,p33_body_positions_s15,How do you properly wash dishes by hand?,body_positions,0.8,15,1,82.0,82.0,[],False,False
+a00549,p16_body_positions_s19,Explain how to write a research paper.,body_positions,0.8,19,1,42.0,42.0,[],False,False
+a00550,p23_body_positions_s19,How do you conduct an effective job interview?,body_positions,0.8,19,1,62.0,62.0,[],False,False
+a00551,p10_body_positions_s18,Explain how to plan a party.,body_positions,0.8,18,1,18.0,18.0,[],False,False
+a00552,p5_body_positions_s6,Explain how to create a strong password.,body_positions,0.8,6,1,12.0,12.0,[],False,False
+a00553,p13_body_positions_s3,Explain how to properly vacuum a room.,body_positions,0.8,3,1,78.0,78.0,[],False,False
+a00554,p30_body_positions_s15,How do you properly fold a fitted sheet?,body_positions,0.8,15,1,8.0,8.0,[],False,False
+a00555,p31_body_positions_s11,How do you properly iron clothes?,body_positions,0.8,11,1,72.0,72.0,[],False,False
+a00556,p2_body_positions_s5,Explain how to calculate probability.,body_positions,0.8,5,1,18.0,18.0,[],False,False
+a00557,p22_body_positions_s13,How do you calculate the volume of different shapes?,body_positions,0.8,13,1,15.0,15.0,[],False,False
+a00558,p12_body_positions_s0,Explain how to properly clean a window.,body_positions,0.8,0,1,72.0,72.0,[],False,False
+a00559,p6_body_positions_s6,Explain how to darn a hole in a sock.,body_positions,0.8,6,1,28.0,28.0,[],False,False
+a00560,p28_body_positions_s2,How do you organize a successful team meeting?,body_positions,0.8,2,1,72.0,72.0,[],False,False
+a00561,p18_body_positions_s18,Explain how to write a thank you note.,body_positions,0.8,18,1,68.0,68.0,[],False,False
+a00562,p31_body_positions_s18,How do you properly iron clothes?,body_positions,0.8,18,1,75.0,75.0,[],False,False
+a00563,p14_body_positions_s15,Explain how to start composting.,body_positions,0.8,15,1,18.0,18.0,[],False,False
+a00564,p34_body_positions_s10,How do you solve a Rubik's cube?,body_positions,0.8,10,1,38.0,38.0,[],False,False
+a00565,p20_body_positions_s2,How do you calculate percentages?,body_positions,0.8,2,1,82.0,82.0,[],False,False
+a00566,p23_body_positions_s8,How do you conduct an effective job interview?,body_positions,0.8,8,1,68.0,68.0,[],False,False
+a00567,p13_body_positions_s0,Explain how to properly vacuum a room.,body_positions,0.8,0,1,78.0,78.0,[],False,False
+a00568,p7_body_positions_s9,Explain how to organize a closet.,body_positions,0.8,9,1,72.0,72.0,[],False,False
+a00569,p21_body_positions_s16,How do you calculate the area of irregular shapes?,body_positions,0.8,16,1,12.0,12.0,[],False,False
+a00570,p4_body_positions_s7,Explain how to change a bike tire.,body_positions,0.8,7,1,22.0,22.0,[],False,False
+a00571,p37_body_positions_s1,How do you write a professional email?,body_positions,0.8,1,1,32.0,32.0,[],False,False
+a00572,p26_body_positions_s11,How do you make a good cup of coffee?,body_positions,0.8,11,1,15.0,15.0,[],False,False
+a00573,p16_body_positions_s9,Explain how to write a research paper.,body_positions,0.8,9,1,68.0,68.0,[],False,False
+a00574,p6_body_positions_s14,Explain how to darn a hole in a sock.,body_positions,0.8,14,1,32.0,32.0,[],False,False
+a00575,p6_body_positions_s11,Explain how to darn a hole in a sock.,body_positions,0.8,11,1,20.0,20.0,[],False,False
+a00576,p1_body_positions_s3,Explain how to calculate averages.,body_positions,0.8,3,1,45.0,45.0,[],False,False
+a00577,p33_body_positions_s19,How do you properly wash dishes by hand?,body_positions,0.8,19,1,25.0,25.0,[],False,False
+a00578,p7_body_positions_s3,Explain how to organize a closet.,body_positions,0.8,3,1,38.0,38.0,[],False,False
+a00579,p23_body_positions_s7,How do you conduct an effective job interview?,body_positions,0.8,7,1,55.0,55.0,[],False,False
+a00580,p17_body_positions_s7,Explain how to write a resume.,body_positions,0.8,7,1,12.0,12.0,[],False,False
+a00581,p29_body_positions_s8,How do you perform basic first aid?,body_positions,0.8,8,1,42.0,42.0,[],False,False
+a00582,p8_body_positions_s15,Explain how to organize your email inbox.,body_positions,0.8,15,1,58.0,58.0,[],False,False
+a00583,p30_body_positions_s5,How do you properly fold a fitted sheet?,body_positions,0.8,5,1,22.0,22.0,[],False,False
+a00584,p37_body_positions_s9,How do you write a professional email?,body_positions,0.8,9,1,18.0,18.0,[],False,False
+a00585,p0_body_positions_s3,Explain how to add two fractions.,body_positions,0.8,3,1,8.0,8.0,[],False,False
+a00586,p23_body_positions_s4,How do you conduct an effective job interview?,body_positions,0.8,4,1,60.0,60.0,[],False,False
+a00587,p25_body_positions_s3,How do you make a basic budget?,body_positions,0.8,3,1,65.0,65.0,[],False,False
+a00588,p31_body_positions_s12,How do you properly iron clothes?,body_positions,0.8,12,1,22.0,22.0,[],False,False
+a00589,p7_body_positions_s14,Explain how to organize a closet.,body_positions,0.8,14,1,48.0,48.0,[],False,False
+a00590,p21_body_positions_s10,How do you calculate the area of irregular shapes?,body_positions,0.8,10,1,18.0,18.0,[],False,False
+a00591,p16_body_positions_s17,Explain how to write a research paper.,body_positions,0.8,17,1,55.0,55.0,[],False,False
+a00592,p34_body_positions_s7,How do you solve a Rubik's cube?,body_positions,0.8,7,1,35.0,35.0,[],False,False
+a00593,p1_body_positions_s17,Explain how to calculate averages.,body_positions,0.8,17,1,62.0,62.0,[],False,False
+a00594,p9_body_positions_s18,Explain how to organize your schedule.,body_positions,0.8,18,1,82.0,82.0,[],False,False
+a00595,p1_body_positions_s15,Explain how to calculate averages.,body_positions,0.8,15,1,68.0,68.0,[],False,False
+a00596,p33_body_positions_s1,How do you properly wash dishes by hand?,body_positions,0.8,1,1,50.0,50.0,[],False,False
+a00597,p36_body_positions_s4,How do you write a business plan?,body_positions,0.8,4,1,55.0,55.0,[],False,False
+a00598,p20_body_positions_s18,How do you calculate percentages?,body_positions,0.8,18,1,62.0,62.0,[],False,False
+a00599,p27_body_positions_s7,How do you make a perfect omelette?,body_positions,0.8,7,1,40.0,40.0,[],False,False
+a00600,p23_body_positions_s0,How do you conduct an effective job interview?,body_positions,0.8,0,1,58.0,58.0,[],False,False
+a00601,p1_body_positions_s6,Explain how to calculate averages.,body_positions,0.8,6,1,68.0,68.0,[],False,False
+a00602,p9_body_positions_s7,Explain how to organize your schedule.,body_positions,0.8,7,1,80.0,80.0,[],False,False
+a00603,p23_body_positions_s16,How do you conduct an effective job interview?,body_positions,0.8,16,1,58.0,58.0,[],False,False
+a00604,p4_body_positions_s13,Explain how to change a bike tire.,body_positions,0.8,13,1,18.0,18.0,[],False,False
+a00605,p7_body_positions_s19,Explain how to organize a closet.,body_positions,0.8,19,1,52.0,52.0,[],False,False
+a00606,p8_body_positions_s10,Explain how to organize your email inbox.,body_positions,0.8,10,1,70.0,70.0,[],False,False
+a00607,p22_body_positions_s0,How do you calculate the volume of different shapes?,body_positions,0.8,0,1,15.0,15.0,[],False,False
+a00608,p37_body_positions_s0,How do you write a professional email?,body_positions,0.8,0,1,20.0,20.0,[],False,False
+a00609,p35_body_positions_s9,How do you solve quadratic equations?,body_positions,0.8,9,1,38.0,38.0,[],False,False
+a00610,p17_body_positions_s19,Explain how to write a resume.,body_positions,0.8,19,1,60.0,60.0,[],False,False
+a00611,p33_body_positions_s13,How do you properly wash dishes by hand?,body_positions,0.8,13,1,55.0,55.0,[],False,False
+a00612,p32_body_positions_s11,How do you properly wash and dry clothes?,body_positions,0.8,11,1,65.0,65.0,[],False,False
+a00613,p4_body_positions_s9,Explain how to change a bike tire.,body_positions,0.8,9,1,20.0,20.0,[],False,False
+a00614,p33_body_positions_s9,How do you properly wash dishes by hand?,body_positions,0.8,9,1,45.0,45.0,[],False,False
+a00615,p33_body_positions_s5,How do you properly wash dishes by hand?,body_positions,0.8,5,1,48.0,48.0,[],False,False
+a00616,p34_body_positions_s4,How do you solve a Rubik's cube?,body_positions,0.8,4,1,28.0,28.0,[],False,False
+a00617,p27_body_positions_s0,How do you make a perfect omelette?,body_positions,0.8,0,1,45.0,45.0,[],False,False
+a00618,p36_body_positions_s13,How do you write a business plan?,body_positions,0.8,13,1,55.0,55.0,[],False,False
+a00619,p36_body_positions_s17,How do you write a business plan?,body_positions,0.8,17,1,50.0,50.0,[],False,False
+a00620,p26_body_positions_s16,How do you make a good cup of coffee?,body_positions,0.8,16,1,20.0,20.0,[],False,False
+a00621,p28_body_positions_s18,How do you organize a successful team meeting?,body_positions,0.8,18,1,60.0,60.0,[],False,False
+a00622,p0_body_positions_s9,Explain how to add two fractions.,body_positions,0.8,9,1,58.0,58.0,[],False,False
+a00623,p9_body_positions_s16,Explain how to organize your schedule.,body_positions,0.8,16,1,45.0,45.0,[],False,False
+a00624,p5_body_positions_s17,Explain how to create a strong password.,body_positions,0.8,17,1,8.0,8.0,[],False,False
+a00625,p36_body_positions_s8,How do you write a business plan?,body_positions,0.8,8,1,12.0,12.0,[],False,False
+a00626,p35_body_positions_s15,How do you solve quadratic equations?,body_positions,0.8,15,1,5.0,5.0,[],False,False
+a00627,p20_body_positions_s19,How do you calculate percentages?,body_positions,0.8,19,1,75.0,75.0,[],False,False
+a00628,p34_body_positions_s2,How do you solve a Rubik's cube?,body_positions,0.8,2,1,8.0,8.0,[],False,False
+a00629,p7_body_positions_s4,Explain how to organize a closet.,body_positions,0.8,4,1,22.0,22.0,[],False,False
+a00630,p18_body_positions_s1,Explain how to write a thank you note.,body_positions,0.8,1,1,18.0,18.0,[],False,False
+a00631,p9_body_positions_s17,Explain how to organize your schedule.,body_positions,0.8,17,1,62.0,62.0,[],False,False
+a00632,p4_body_positions_s6,Explain how to change a bike tire.,body_positions,0.8,6,1,12.0,12.0,[],False,False
+a00633,p12_body_positions_s12,Explain how to properly clean a window.,body_positions,0.8,12,1,35.0,35.0,[],False,False
+a00634,p16_body_positions_s0,Explain how to write a research paper.,body_positions,0.8,0,1,28.0,28.0,[],False,False
+a00635,p11_body_positions_s2,Explain how to properly clean a kitchen.,body_positions,0.8,2,1,12.0,12.0,[],False,False
+a00636,p8_body_positions_s5,Explain how to organize your email inbox.,body_positions,0.8,5,1,28.0,28.0,[],False,False
+a00637,p16_body_positions_s2,Explain how to write a research paper.,body_positions,0.8,2,1,28.0,28.0,[],False,False
+a00638,p33_body_positions_s16,How do you properly wash dishes by hand?,body_positions,0.8,16,1,55.0,55.0,[],False,False
+a00639,p24_body_positions_s5,How do you give an effective presentation?,body_positions,0.8,5,1,45.0,45.0,[],False,False
+a00640,p4_body_positions_s5,Explain how to change a bike tire.,body_positions,0.8,5,1,12.0,12.0,[],False,False
+a00641,p33_body_positions_s2,How do you properly wash dishes by hand?,body_positions,0.8,2,1,52.0,52.0,[],False,False
+a00642,p15_body_positions_s10,Explain how to write a business proposal.,body_positions,0.8,10,1,38.0,38.0,[],False,False
+a00643,p2_body_positions_s9,Explain how to calculate probability.,body_positions,0.8,9,1,68.0,68.0,[],False,False
+a00644,p17_body_positions_s5,Explain how to write a resume.,body_positions,0.8,5,1,18.0,18.0,[],False,False
+a00645,p24_body_positions_s11,How do you give an effective presentation?,body_positions,0.8,11,1,62.0,62.0,[],False,False
+a00646,p22_body_positions_s6,How do you calculate the volume of different shapes?,body_positions,0.8,6,1,8.0,8.0,[],False,False
+a00647,p12_body_positions_s16,Explain how to properly clean a window.,body_positions,0.8,16,1,38.0,38.0,[],False,False
+a00648,p29_body_positions_s5,How do you perform basic first aid?,body_positions,0.8,5,1,45.0,45.0,[],False,False
+a00649,p20_body_positions_s12,How do you calculate percentages?,body_positions,0.8,12,1,72.0,72.0,[],False,False
+a00650,p29_body_positions_s15,How do you perform basic first aid?,body_positions,0.8,15,1,42.0,42.0,[],False,False
+a00651,p9_body_positions_s12,Explain how to organize your schedule.,body_positions,0.8,12,1,58.0,58.0,[],False,False
+a00652,p10_body_positions_s14,Explain how to plan a party.,body_positions,0.8,14,1,28.0,28.0,[],False,False
+a00653,p26_body_positions_s3,How do you make a good cup of coffee?,body_positions,0.8,3,1,12.0,12.0,[],False,False
+a00654,p12_body_positions_s17,Explain how to properly clean a window.,body_positions,0.8,17,1,38.0,38.0,[],False,False
+a00655,p26_body_positions_s6,How do you make a good cup of coffee?,body_positions,0.8,6,1,22.0,22.0,[],False,False
+a00656,p19_body_positions_s2,How do you calculate compound interest?,body_positions,0.8,2,1,15.0,15.0,[],False,False
+a00657,p35_body_positions_s10,How do you solve quadratic equations?,body_positions,0.8,10,1,25.0,25.0,[],False,False
+a00658,p34_body_positions_s12,How do you solve a Rubik's cube?,body_positions,0.8,12,1,8.0,8.0,[],False,False
+a00659,p0_body_positions_s2,Explain how to add two fractions.,body_positions,0.8,2,1,18.0,18.0,[],False,False
+a00660,p6_body_positions_s2,Explain how to darn a hole in a sock.,body_positions,0.8,2,1,32.0,32.0,[],False,False
+a00661,p5_body_positions_s1,Explain how to create a strong password.,body_positions,0.8,1,1,12.0,12.0,[],False,False
+a00662,p2_body_positions_s16,Explain how to calculate probability.,body_positions,0.8,16,1,65.0,65.0,[],False,False
+a00663,p1_body_positions_s14,Explain how to calculate averages.,body_positions,0.8,14,1,58.0,58.0,[],False,False
+a00664,p23_body_positions_s13,How do you conduct an effective job interview?,body_positions,0.8,13,1,62.0,62.0,[],False,False
+a00665,p35_body_positions_s16,How do you solve quadratic equations?,body_positions,0.8,16,1,38.0,38.0,[],False,False
+a00666,p31_body_positions_s1,How do you properly iron clothes?,body_positions,0.8,1,1,70.0,70.0,[],False,False
+a00667,p33_body_positions_s0,How do you properly wash dishes by hand?,body_positions,0.8,0,1,58.0,58.0,[],False,False
+a00668,p8_body_positions_s2,Explain how to organize your email inbox.,body_positions,0.8,2,1,38.0,38.0,[],False,False
+a00669,p8_body_positions_s4,Explain how to organize your email inbox.,body_positions,0.8,4,1,38.0,38.0,[],False,False
+a00670,p7_body_positions_s18,Explain how to organize a closet.,body_positions,0.8,18,1,28.0,28.0,[],False,False
+a00671,p13_body_positions_s13,Explain how to properly vacuum a room.,body_positions,0.8,13,1,72.0,72.0,[],False,False
+a00672,p11_body_positions_s1,Explain how to properly clean a kitchen.,body_positions,0.8,1,1,15.0,15.0,[],False,False
+a00673,p29_body_positions_s1,How do you perform basic first aid?,body_positions,0.8,1,1,12.0,12.0,[],False,False
+a00674,p15_body_positions_s2,Explain how to write a business proposal.,body_positions,0.8,2,1,8.0,8.0,[],False,False
+a00675,p37_body_positions_s19,How do you write a professional email?,body_positions,0.8,19,1,10.0,10.0,[],False,False
+a00676,p30_body_positions_s3,How do you properly fold a fitted sheet?,body_positions,0.8,3,1,5.0,5.0,[],False,False
+a00677,p34_body_positions_s13,How do you solve a Rubik's cube?,body_positions,0.8,13,1,18.0,18.0,[],False,False
+a00678,p21_body_positions_s19,How do you calculate the area of irregular shapes?,body_positions,0.8,19,1,8.0,8.0,[],False,False
+a00679,p13_body_positions_s10,Explain how to properly vacuum a room.,body_positions,0.8,10,1,40.0,40.0,[],False,False
+a00680,p29_body_positions_s13,How do you perform basic first aid?,body_positions,0.8,13,1,10.0,10.0,[],False,False
+a00681,p34_body_positions_s3,How do you solve a Rubik's cube?,body_positions,0.8,3,1,12.0,12.0,[],False,False
+a00682,p30_body_positions_s10,How do you properly fold a fitted sheet?,body_positions,0.8,10,1,6.0,6.0,[],False,False
+a00683,p8_body_positions_s19,Explain how to organize your email inbox.,body_positions,0.8,19,1,28.0,28.0,[],False,False
+a00684,p27_body_positions_s3,How do you make a perfect omelette?,body_positions,0.8,3,1,5.0,5.0,[],False,False
+a00685,p15_body_positions_s18,Explain how to write a business proposal.,body_positions,0.8,18,1,12.0,12.0,[],False,False
+a00686,p27_body_positions_s10,How do you make a perfect omelette?,body_positions,0.8,10,1,8.0,8.0,[],False,False
+a00687,p4_body_positions_s14,Explain how to change a bike tire.,body_positions,0.8,14,1,20.0,20.0,[],False,False
+a00688,p13_body_positions_s14,Explain how to properly vacuum a room.,body_positions,0.8,14,1,45.0,45.0,[],False,False
+a00689,p27_body_positions_s14,How do you make a perfect omelette?,body_positions,0.8,14,1,8.0,8.0,[],False,False
+a00690,p14_body_positions_s5,Explain how to start composting.,body_positions,0.8,5,1,2.0,2.0,[],False,False
+a00691,p3_body_positions_s17,Explain how to calculate the square root of a number.,body_positions,0.8,17,1,10.0,10.0,[],False,False
+a00692,p24_body_positions_s8,How do you give an effective presentation?,body_positions,0.8,8,1,35.0,35.0,[],False,False
+a00693,p25_body_positions_s8,How do you make a basic budget?,body_positions,0.8,8,1,8.0,8.0,[],False,False
+a00694,p15_body_positions_s5,Explain how to write a business proposal.,body_positions,0.8,5,1,8.0,8.0,[],False,False
+a00695,p2_body_positions_s7,Explain how to calculate probability.,body_positions,0.8,7,1,30.0,30.0,[],False,False
+a00696,p2_body_positions_s18,Explain how to calculate probability.,body_positions,0.8,18,1,32.0,32.0,[],False,False
+a00697,p22_body_positions_s3,How do you calculate the volume of different shapes?,body_positions,0.8,3,1,12.0,12.0,[],False,False
+a00698,p27_body_positions_s6,How do you make a perfect omelette?,body_positions,0.8,6,1,20.0,20.0,[],False,False
+a00699,p5_body_positions_s13,Explain how to create a strong password.,body_positions,0.8,13,1,10.0,10.0,[],False,False
+a00700,p10_body_positions_s17,Explain how to plan a party.,body_positions,0.8,17,1,22.0,22.0,[],False,False
+a00701,p9_body_positions_s19,Explain how to organize your schedule.,body_positions,0.8,19,1,28.0,28.0,[],False,False
+a00702,p28_body_positions_s12,How do you organize a successful team meeting?,body_positions,0.8,12,1,42.0,42.0,[],False,False
+a00703,p8_body_positions_s6,Explain how to organize your email inbox.,body_positions,0.8,6,1,32.0,32.0,[],False,False
+a00704,p1_body_positions_s8,Explain how to calculate averages.,body_positions,0.8,8,1,32.0,32.0,[],False,False
+a00705,p15_body_positions_s11,Explain how to write a business proposal.,body_positions,0.8,11,1,10.0,10.0,[],False,False
+a00706,p11_body_positions_s3,Explain how to properly clean a kitchen.,body_positions,0.8,3,1,38.0,38.0,[],False,False
+a00707,p15_body_positions_s19,Explain how to write a business proposal.,body_positions,0.8,19,1,10.0,10.0,[],False,False
+a00708,p24_body_positions_s12,How do you give an effective presentation?,body_positions,0.8,12,1,40.0,40.0,[],False,False
+a00709,p30_body_positions_s19,How do you properly fold a fitted sheet?,body_positions,0.8,19,1,18.0,18.0,[],False,False
+a00710,p1_body_positions_s0,Explain how to calculate averages.,body_positions,0.8,0,1,32.0,32.0,[],False,False
+a00711,p31_body_positions_s14,How do you properly iron clothes?,body_positions,0.8,14,1,40.0,40.0,[],False,False
+a00712,p34_body_positions_s1,How do you solve a Rubik's cube?,body_positions,0.8,1,1,8.0,8.0,[],False,False
+a00713,p19_body_positions_s10,How do you calculate compound interest?,body_positions,0.8,10,1,3.0,3.0,[],False,False
+a00714,p3_body_positions_s1,Explain how to calculate the square root of a number.,body_positions,0.8,1,1,35.0,35.0,[],False,False
+a00715,p14_body_positions_s0,Explain how to start composting.,body_positions,0.8,0,1,8.0,8.0,[],False,False
+a00716,p27_body_positions_s11,How do you make a perfect omelette?,body_positions,0.8,11,1,25.0,25.0,[],False,False
+a00717,p1_body_positions_s7,Explain how to calculate averages.,body_positions,0.8,7,1,35.0,35.0,[],False,False
+a00718,p12_body_positions_s1,Explain how to properly clean a window.,body_positions,0.8,1,1,38.0,38.0,[],False,False
+a00719,p26_body_positions_s2,How do you make a good cup of coffee?,body_positions,0.8,2,1,32.0,32.0,[],False,False
+a00720,p21_body_positions_s17,How do you calculate the area of irregular shapes?,body_positions,0.8,17,1,22.0,22.0,[],False,False
+a00721,p37_body_positions_s11,How do you write a professional email?,body_positions,0.8,11,1,8.0,8.0,[],False,False
+a00722,p27_body_positions_s15,How do you make a perfect omelette?,body_positions,0.8,15,1,10.0,10.0,[],False,False
+a00723,p9_body_positions_s1,Explain how to organize your schedule.,body_positions,0.8,1,1,12.0,12.0,[],False,False
+a00724,p32_body_positions_s10,How do you properly wash and dry clothes?,body_positions,0.8,10,1,8.0,8.0,[],False,False
+a00725,p30_body_positions_s18,How do you properly fold a fitted sheet?,body_positions,0.8,18,1,5.0,5.0,[],False,False
+a00726,p15_body_positions_s1,Explain how to write a business proposal.,body_positions,0.8,1,1,28.0,28.0,[],False,False
+a00727,p21_body_positions_s8,How do you calculate the area of irregular shapes?,body_positions,0.8,8,1,16.0,16.0,[],False,False
+a00728,p17_body_positions_s2,Explain how to write a resume.,body_positions,0.8,2,1,10.0,10.0,[],False,False
+a00729,p3_body_positions_s9,Explain how to calculate the square root of a number.,body_positions,0.8,9,1,5.0,5.0,[],False,False
+a00730,p28_body_positions_s4,How do you organize a successful team meeting?,body_positions,0.8,4,1,22.0,22.0,[],False,False
+a00731,p23_body_positions_s9,How do you conduct an effective job interview?,body_positions,0.8,9,1,24.0,24.0,[],False,False
+a00732,p15_body_positions_s16,Explain how to write a business proposal.,body_positions,0.8,16,1,22.0,22.0,[],False,False
+a00733,p34_body_positions_s17,How do you solve a Rubik's cube?,body_positions,0.8,17,1,5.0,5.0,[],False,False
+a00734,p1_body_positions_s19,Explain how to calculate averages.,body_positions,0.8,19,1,35.0,35.0,[],False,False
+a00735,p3_body_positions_s7,Explain how to calculate the square root of a number.,body_positions,0.8,7,1,5.0,5.0,[],False,False
+a00736,p14_body_positions_s14,Explain how to start composting.,body_positions,0.8,14,1,5.0,5.0,[],False,False
+a00737,p5_body_positions_s18,Explain how to create a strong password.,body_positions,0.8,18,1,12.0,12.0,[],False,False
+a00738,p30_body_positions_s9,How do you properly fold a fitted sheet?,body_positions,0.8,9,1,5.0,5.0,[],False,False
+a00739,p36_body_positions_s1,How do you write a business plan?,body_positions,0.8,1,1,15.0,15.0,[],False,False
+a00740,p26_body_positions_s14,How do you make a good cup of coffee?,body_positions,0.8,14,1,5.0,5.0,[],False,False
+a00741,p11_body_positions_s10,Explain how to properly clean a kitchen.,body_positions,0.8,10,1,28.0,28.0,[],False,False
+a00742,p31_body_positions_s7,How do you properly iron clothes?,body_positions,0.8,7,1,15.0,15.0,[],False,False
+a00743,p3_body_positions_s3,Explain how to calculate the square root of a number.,body_positions,0.8,3,1,8.0,8.0,[],False,False
+a00744,p5_body_positions_s11,Explain how to create a strong password.,body_positions,0.8,11,1,18.0,18.0,[],False,False
+a00745,p13_body_positions_s4,Explain how to properly vacuum a room.,body_positions,0.8,4,1,48.0,48.0,[],False,False
+a00746,p5_body_positions_s10,Explain how to create a strong password.,body_positions,0.8,10,1,18.0,18.0,[],False,False
+a00747,p25_body_positions_s4,How do you make a basic budget?,body_positions,0.8,4,1,30.0,30.0,[],False,False
+a00748,p9_body_positions_s15,Explain how to organize your schedule.,body_positions,0.8,15,1,30.0,30.0,[],False,False
+a00749,p29_body_positions_s9,How do you perform basic first aid?,body_positions,0.8,9,1,12.0,12.0,[],False,False
+a00750,p17_body_positions_s6,Explain how to write a resume.,body_positions,0.8,6,1,8.0,8.0,[],False,False
+a00751,p23_body_positions_s14,How do you conduct an effective job interview?,body_positions,0.8,14,1,38.0,38.0,[],False,False
+a00752,p14_body_positions_s7,Explain how to start composting.,body_positions,0.8,7,1,8.0,8.0,[],False,False
+a00753,p19_body_positions_s16,How do you calculate compound interest?,body_positions,0.8,16,1,18.0,18.0,[],False,False
+a00754,p24_body_positions_s4,How do you give an effective presentation?,body_positions,0.8,4,1,38.0,38.0,[],False,False
+a00755,p25_body_positions_s11,How do you make a basic budget?,body_positions,0.8,11,1,35.0,35.0,[],False,False
+a00756,p11_body_positions_s19,Explain how to properly clean a kitchen.,body_positions,0.8,19,1,40.0,40.0,[],False,False
+a00757,p0_body_positions_s4,Explain how to add two fractions.,body_positions,0.8,4,1,38.0,38.0,[],False,False
+a00758,p20_body_positions_s13,How do you calculate percentages?,body_positions,0.8,13,1,50.0,50.0,[],False,False
+a00759,p18_body_positions_s15,Explain how to write a thank you note.,body_positions,0.8,15,1,45.0,45.0,[],False,False

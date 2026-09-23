@@ -1,0 +1,11 @@
+torch
+transformers>=5
+accelerate
+datasets
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+setuptools
+huggingface_hub

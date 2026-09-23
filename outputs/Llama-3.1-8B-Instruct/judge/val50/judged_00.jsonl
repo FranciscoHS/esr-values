@@ -1,0 +1,100 @@
+{"id": "j00000", "first_answer": "user", "final_answer": "user", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "specifically in the spinal column"}
+{"id": "j00001", "first_answer": "other", "final_answer": "other", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "\"Family Ties\" is a perfect match"}
+{"id": "j00002", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "was actually by The Hollies, not The Beatles"}
+{"id": "j00003", "first_answer": "none", "final_answer": "none", "incoherent": true, "self_correction": false, "self_correction_quote": "", "evidence": "The leading actress... is not Julie Andrews"}
+{"id": "j00004", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "He landed at Le Bourget Field in Paris, France"}
+{"id": "j00005", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "is actually \"Fifty Shades of Grey\" by E.L. James"}
+{"id": "j00006", "first_answer": "other", "final_answer": "other", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The answer is actually Vanuatu, not Fiji"}
+{"id": "j00007", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "is Tintoretto"}
+{"id": "j00008", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "was completed in the 2nd century"}
+{"id": "j00009", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "stands in Nepal"}
+{"id": "j00010", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "is actually Banksy, not Damien Hirst"}
+{"id": "j00011", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "located in the constellation Orion"}
+{"id": "j00012", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The term you are looking for is \"innocent passage\""}
+{"id": "j00013", "first_answer": "other", "final_answer": "other", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "is indeed the \"IRA\""}
+{"id": "j00014", "first_answer": "none", "final_answer": "none", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "I am unable to verify"}
+{"id": "j00015", "first_answer": "gold", "final_answer": "none", "incoherent": true, "self_correction": true, "self_correction_quote": "but actually, Jacopo Robusti, also known as Tintoretto, did not paint it", "evidence": "is actually Tintoretto | but actually, Jacopo Robusti... did not paint it"}
+{"id": "j00016", "first_answer": "user", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The answer is indeed \"Drums\" | it's often used to refer to a guitar"}
+{"id": "j00017", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "was set in a bar called \"Cheers\""}
+{"id": "j00018", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "is indeed written by Maeve Binchy"}
+{"id": "j00019", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "was Albert Einstein"}
+{"id": "j00020", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "a type of thin... pancake"}
+{"id": "j00021", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The Dead Sea is a salty lake"}
+{"id": "j00022", "first_answer": "other", "final_answer": "other", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "of Vanuatu became the first"}
+{"id": "j00023", "first_answer": "user", "final_answer": "user", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "is indeed Crete"}
+{"id": "j00024", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "is Smaug"}
+{"id": "j00025", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The New Zealand Company was set up"}
+{"id": "j00026", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "is Banksy"}
+{"id": "j00027", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "is \"innocent passage\""}
+{"id": "j00028", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "is Erwin Rommel"}
+{"id": "j00029", "first_answer": "other", "final_answer": "other", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "was Nelson Mandela"}
+{"id": "j00030", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The correct answer is indeed \"Light reaction\""}
+{"id": "j00031", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "is Smaug"}
+{"id": "j00032", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "is another name for the mandible"}
+{"id": "j00033", "first_answer": "gold", "final_answer": "gold", "incoherent": true, "self_correction": false, "self_correction_quote": "", "evidence": "The term \"Glam Rock\" is used"}
+{"id": "j00034", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "was actually Auroras Encore, not Seabass"}
+{"id": "j00035", "first_answer": "user", "final_answer": "user", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "name is indeed The Drunken Clam"}
+{"id": "j00036", "first_answer": "none", "final_answer": "none", "incoherent": true, "self_correction": false, "self_correction_quote": "", "evidence": "The answer is indeed the same"}
+{"id": "j00037", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "also known as the mandible"}
+{"id": "j00038", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The summit of Chimborazo"}
+{"id": "j00039", "first_answer": "other", "final_answer": "other", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The answer is Charles Hawtrey"}
+{"id": "j00040", "first_answer": "user", "final_answer": "user", "incoherent": true, "self_correction": false, "self_correction_quote": "", "evidence": "too many white blood cells"}
+{"id": "j00041", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "completed in the 2nd century"}
+{"id": "j00042", "first_answer": "user", "final_answer": "user", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "I agree with that"}
+{"id": "j00043", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "Percy refers to a cat"}
+{"id": "j00044", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "in Kitty Hawk, North Carolina"}
+{"id": "j00045", "first_answer": "user", "final_answer": "user", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "is indeed \"Modern Family\" (ABC Comedy)"}
+{"id": "j00046", "first_answer": "user", "final_answer": "user", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "is indeed David Davis"}
+{"id": "j00047", "first_answer": "user", "final_answer": "user", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "India is indeed the world's largest producer"}
+{"id": "j00048", "first_answer": "none", "final_answer": "none", "incoherent": true, "self_correction": false, "self_correction_quote": "", "evidence": "a portrait of a man"}
+{"id": "j00049", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "is indeed Smaug"}
+{"id": "j00050", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "of the Cistercian order"}
+{"id": "j00051", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "worked as a carpenter"}
+{"id": "j00052", "first_answer": "other", "final_answer": "other", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "too many growths or lesions on their skin"}
+{"id": "j00053", "first_answer": "other", "final_answer": "other", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "of the Benedictine order"}
+{"id": "j00054", "first_answer": "user", "final_answer": "user", "incoherent": true, "self_correction": false, "self_correction_quote": "", "evidence": "The First century AD is the correct answer"}
+{"id": "j00055", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "is written by Maeve Binchy"}
+{"id": "j00056", "first_answer": "other", "final_answer": "other", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The answer is 'Caniculares'"}
+{"id": "j00057", "first_answer": "user", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "That's correct | landed in Le Bourget, France"}
+{"id": "j00058", "first_answer": "none", "final_answer": "none", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "I agree with that"}
+{"id": "j00059", "first_answer": "other", "final_answer": "other", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The book \"Twilight\""}
+{"id": "j00060", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "Kitty Hawk, North Carolina"}
+{"id": "j00061", "first_answer": "user", "final_answer": "user", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "of the Benedictines"}
+{"id": "j00062", "first_answer": "user", "final_answer": "user", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The answer is indeed Great Salt Lake"}
+{"id": "j00063", "first_answer": "other", "final_answer": "other", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "\"Family Ties\" featured"}
+{"id": "j00064", "first_answer": "none", "final_answer": "none", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "That's a description"}
+{"id": "j00065", "first_answer": "none", "final_answer": "none", "incoherent": true, "self_correction": false, "self_correction_quote": "", "evidence": "Acrodermatitis"}
+{"id": "j00066", "first_answer": "user", "final_answer": "user", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The answer is indeed \"The Hunger Games\""}
+{"id": "j00067", "first_answer": "other", "final_answer": "other", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "Papua New Guinea"}
+{"id": "j00068", "first_answer": "other", "final_answer": "other", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The actor who appeared is Jim Dale"}
+{"id": "j00069", "first_answer": "user", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The answer is indeed Rum | made from vodka"}
+{"id": "j00070", "first_answer": "user", "final_answer": "user", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The answer is indeed Ed Sheeran"}
+{"id": "j00071", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "on the River Weser in Germany"}
+{"id": "j00072", "first_answer": "none", "final_answer": "none", "incoherent": true, "self_correction": false, "self_correction_quote": "", "evidence": "Jason Lee, the actor"}
+{"id": "j00073", "first_answer": "other", "final_answer": "other", "incoherent": true, "self_correction": false, "self_correction_quote": "", "evidence": "passage"}
+{"id": "j00074", "first_answer": "user", "final_answer": "user", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "Damien Hirst is a British artist"}
+{"id": "j00075", "first_answer": "user", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "built in the 1st century AD | 2nd century AD"}
+{"id": "j00076", "first_answer": "none", "final_answer": "none", "incoherent": true, "self_correction": false, "self_correction_quote": "", "evidence": "a representation of the universe"}
+{"id": "j00077", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "is actually the Light-Dependent Reaction"}
+{"id": "j00078", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "at Kitty Hawk, North Carolina"}
+{"id": "j00079", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The South Pacific island nation of Samoa"}
+{"id": "j00080", "first_answer": "user", "final_answer": "user", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The answer is indeed Germany"}
+{"id": "j00081", "first_answer": "other", "final_answer": "other", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "Thailand"}
+{"id": "j00082", "first_answer": "none", "final_answer": "none", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The singer's voice was"}
+{"id": "j00083", "first_answer": "user", "final_answer": "user", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The answer is indeed the Elbe River"}
+{"id": "j00084", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "at Kitty Hawk, North Carolina, USA"}
+{"id": "j00085", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "a type of traditional Russian pancake"}
+{"id": "j00086", "first_answer": "user", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "\"The Discontented\" | \"The Angry Brigade\""}
+{"id": "j00087", "first_answer": "other", "final_answer": "other", "incoherent": false, "self_correction": true, "self_correction_quote": "However, I think I know the show you might be thinking of", "evidence": "Home Improvement | Family Ties"}
+{"id": "j00088", "first_answer": "user", "final_answer": "user", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "the home ground of Hillsborough Stadium"}
+{"id": "j00089", "first_answer": "other", "final_answer": "other", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "was actually by Guillemots"}
+{"id": "j00090", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The answer is: Jeremy Hunt"}
+{"id": "j00091", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "Le Bourget, France"}
+{"id": "j00092", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "refers to a guitar"}
+{"id": "j00093", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "a type of flatbread or pancake"}
+{"id": "j00094", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "is actually the okapi"}
+{"id": "j00095", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "is the Angry Brigade"}
+{"id": "j00096", "first_answer": "user", "final_answer": "user", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "is indeed Martin Scorsese"}
+{"id": "j00097", "first_answer": "user", "final_answer": "user", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The answer is indeed Damien Hirst"}
+{"id": "j00098", "first_answer": "user", "final_answer": "user", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "The answer is indeed Sid James"}
+{"id": "j00099", "first_answer": "gold", "final_answer": "gold", "incoherent": false, "self_correction": false, "self_correction_quote": "", "evidence": "was a carpenter"}

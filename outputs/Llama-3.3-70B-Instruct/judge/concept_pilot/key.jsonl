@@ -1,0 +1,228 @@
+{"jid": "a00000", "id": "p30_body_positions_s0", "prompt": "How do you properly fold a fitted sheet?", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00001", "id": "p25_body_positions_s0", "prompt": "How do you make a basic budget?", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00002", "id": "p17_body_positions_s0", "prompt": "Explain how to write a resume.", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00003", "id": "p21_body_positions_s0", "prompt": "How do you calculate the area of irregular shapes?", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00004", "id": "p26_none_s0", "prompt": "How do you make a good cup of coffee?", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00005", "id": "p36_body_positions_s0", "prompt": "How do you write a business plan?", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00006", "id": "p2_body_positions_s0", "prompt": "Explain how to calculate probability.", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00007", "id": "p18_body_positions_s0", "prompt": "Explain how to write a thank you note.", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00008", "id": "p13_body_positions_s0", "prompt": "Explain how to properly vacuum a room.", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00009", "id": "p21_body_positions_s0", "prompt": "How do you calculate the area of irregular shapes?", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00010", "id": "p23_body_positions_s0", "prompt": "How do you conduct an effective job interview?", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00011", "id": "p11_body_positions_s0", "prompt": "Explain how to properly clean a kitchen.", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00012", "id": "p37_body_positions_s0", "prompt": "How do you write a professional email?", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00013", "id": "p32_body_positions_s0", "prompt": "How do you properly wash and dry clothes?", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00014", "id": "p27_body_positions_s0", "prompt": "How do you make a perfect omelette?", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00015", "id": "p9_body_positions_s0", "prompt": "Explain how to organize your schedule.", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00016", "id": "p18_body_positions_s0", "prompt": "Explain how to write a thank you note.", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00017", "id": "p0_body_positions_s0", "prompt": "Explain how to add two fractions.", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00018", "id": "p17_body_positions_s0", "prompt": "Explain how to write a resume.", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00019", "id": "p20_body_positions_s0", "prompt": "How do you calculate percentages?", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00020", "id": "p28_body_positions_s0", "prompt": "How do you organize a successful team meeting?", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00021", "id": "p8_body_positions_s0", "prompt": "Explain how to organize your email inbox.", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00022", "id": "p19_body_positions_s0", "prompt": "How do you calculate compound interest?", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00023", "id": "p22_body_positions_s0", "prompt": "How do you calculate the volume of different shapes?", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00024", "id": "p33_body_positions_s0", "prompt": "How do you properly wash dishes by hand?", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00025", "id": "p1_body_positions_s0", "prompt": "Explain how to calculate averages.", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00026", "id": "p20_body_positions_s0", "prompt": "How do you calculate percentages?", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00027", "id": "p18_body_positions_s0", "prompt": "Explain how to write a thank you note.", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00028", "id": "p32_body_positions_s0", "prompt": "How do you properly wash and dry clothes?", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00029", "id": "p24_body_positions_s0", "prompt": "How do you give an effective presentation?", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00030", "id": "p21_body_positions_s0", "prompt": "How do you calculate the area of irregular shapes?", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00031", "id": "p6_body_positions_s0", "prompt": "Explain how to darn a hole in a sock.", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00032", "id": "p22_body_positions_s0", "prompt": "How do you calculate the volume of different shapes?", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00033", "id": "p29_none_s0", "prompt": "How do you perform basic first aid?", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00034", "id": "p32_none_s0", "prompt": "How do you properly wash and dry clothes?", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00035", "id": "p27_body_positions_s0", "prompt": "How do you make a perfect omelette?", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00036", "id": "p10_body_positions_s0", "prompt": "Explain how to plan a party.", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00037", "id": "p13_body_positions_s0", "prompt": "Explain how to properly vacuum a room.", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00038", "id": "p14_body_positions_s0", "prompt": "Explain how to start composting.", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00039", "id": "p1_body_positions_s0", "prompt": "Explain how to calculate averages.", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00040", "id": "p16_body_positions_s0", "prompt": "Explain how to write a research paper.", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00041", "id": "p21_body_positions_s0", "prompt": "How do you calculate the area of irregular shapes?", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00042", "id": "p9_body_positions_s0", "prompt": "Explain how to organize your schedule.", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00043", "id": "p13_body_positions_s0", "prompt": "Explain how to properly vacuum a room.", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00044", "id": "p6_none_s0", "prompt": "Explain how to darn a hole in a sock.", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00045", "id": "p1_body_positions_s0", "prompt": "Explain how to calculate averages.", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00046", "id": "p3_body_positions_s0", "prompt": "Explain how to calculate the square root of a number.", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00047", "id": "p14_body_positions_s0", "prompt": "Explain how to start composting.", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00048", "id": "p20_body_positions_s0", "prompt": "How do you calculate percentages?", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00049", "id": "p5_body_positions_s0", "prompt": "Explain how to create a strong password.", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00050", "id": "p2_body_positions_s0", "prompt": "Explain how to calculate probability.", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00051", "id": "p8_body_positions_s0", "prompt": "Explain how to organize your email inbox.", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00052", "id": "p13_none_s0", "prompt": "Explain how to properly vacuum a room.", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00053", "id": "p36_body_positions_s0", "prompt": "How do you write a business plan?", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00054", "id": "p23_body_positions_s0", "prompt": "How do you conduct an effective job interview?", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00055", "id": "p19_body_positions_s0", "prompt": "How do you calculate compound interest?", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00056", "id": "p13_body_positions_s0", "prompt": "Explain how to properly vacuum a room.", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00057", "id": "p20_body_positions_s0", "prompt": "How do you calculate percentages?", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00058", "id": "p1_none_s0", "prompt": "Explain how to calculate averages.", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00059", "id": "p0_body_positions_s0", "prompt": "Explain how to add two fractions.", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00060", "id": "p7_body_positions_s0", "prompt": "Explain how to organize a closet.", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00061", "id": "p0_body_positions_s0", "prompt": "Explain how to add two fractions.", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00062", "id": "p32_body_positions_s0", "prompt": "How do you properly wash and dry clothes?", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00063", "id": "p12_body_positions_s0", "prompt": "Explain how to properly clean a window.", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00064", "id": "p11_none_s0", "prompt": "Explain how to properly clean a kitchen.", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00065", "id": "p2_body_positions_s0", "prompt": "Explain how to calculate probability.", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00066", "id": "p33_body_positions_s0", "prompt": "How do you properly wash dishes by hand?", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00067", "id": "p29_body_positions_s0", "prompt": "How do you perform basic first aid?", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00068", "id": "p26_body_positions_s0", "prompt": "How do you make a good cup of coffee?", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00069", "id": "p24_body_positions_s0", "prompt": "How do you give an effective presentation?", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00070", "id": "p9_none_s0", "prompt": "Explain how to organize your schedule.", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00071", "id": "p30_body_positions_s0", "prompt": "How do you properly fold a fitted sheet?", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00072", "id": "p5_none_s0", "prompt": "Explain how to create a strong password.", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00073", "id": "p33_body_positions_s0", "prompt": "How do you properly wash dishes by hand?", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00074", "id": "p5_body_positions_s0", "prompt": "Explain how to create a strong password.", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00075", "id": "p12_none_s0", "prompt": "Explain how to properly clean a window.", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00076", "id": "p7_none_s0", "prompt": "Explain how to organize a closet.", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00077", "id": "p16_body_positions_s0", "prompt": "Explain how to write a research paper.", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00078", "id": "p1_body_positions_s0", "prompt": "Explain how to calculate averages.", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00079", "id": "p21_none_s0", "prompt": "How do you calculate the area of irregular shapes?", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00080", "id": "p11_body_positions_s0", "prompt": "Explain how to properly clean a kitchen.", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00081", "id": "p28_none_s0", "prompt": "How do you organize a successful team meeting?", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00082", "id": "p24_body_positions_s0", "prompt": "How do you give an effective presentation?", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00083", "id": "p34_none_s0", "prompt": "How do you solve a Rubik's cube?", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00084", "id": "p2_none_s0", "prompt": "Explain how to calculate probability.", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00085", "id": "p34_body_positions_s0", "prompt": "How do you solve a Rubik's cube?", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00086", "id": "p16_body_positions_s0", "prompt": "Explain how to write a research paper.", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00087", "id": "p4_body_positions_s0", "prompt": "Explain how to change a bike tire.", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00088", "id": "p35_body_positions_s0", "prompt": "How do you solve quadratic equations?", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00089", "id": "p28_body_positions_s0", "prompt": "How do you organize a successful team meeting?", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00090", "id": "p15_body_positions_s0", "prompt": "Explain how to write a business proposal.", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00091", "id": "p14_none_s0", "prompt": "Explain how to start composting.", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00092", "id": "p2_body_positions_s0", "prompt": "Explain how to calculate probability.", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00093", "id": "p3_body_positions_s0", "prompt": "Explain how to calculate the square root of a number.", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00094", "id": "p28_body_positions_s0", "prompt": "How do you organize a successful team meeting?", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00095", "id": "p7_body_positions_s0", "prompt": "Explain how to organize a closet.", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00096", "id": "p5_body_positions_s0", "prompt": "Explain how to create a strong password.", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00097", "id": "p6_body_positions_s0", "prompt": "Explain how to darn a hole in a sock.", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00098", "id": "p17_body_positions_s0", "prompt": "Explain how to write a resume.", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00099", "id": "p25_body_positions_s0", "prompt": "How do you make a basic budget?", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00100", "id": "p19_body_positions_s0", "prompt": "How do you calculate compound interest?", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00101", "id": "p34_body_positions_s0", "prompt": "How do you solve a Rubik's cube?", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00102", "id": "p12_body_positions_s0", "prompt": "Explain how to properly clean a window.", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00103", "id": "p15_body_positions_s0", "prompt": "Explain how to write a business proposal.", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00104", "id": "p37_body_positions_s0", "prompt": "How do you write a professional email?", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00105", "id": "p10_body_positions_s0", "prompt": "Explain how to plan a party.", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00106", "id": "p0_body_positions_s0", "prompt": "Explain how to add two fractions.", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00107", "id": "p30_none_s0", "prompt": "How do you properly fold a fitted sheet?", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00108", "id": "p29_body_positions_s0", "prompt": "How do you perform basic first aid?", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00109", "id": "p17_body_positions_s0", "prompt": "Explain how to write a resume.", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00110", "id": "p18_body_positions_s0", "prompt": "Explain how to write a thank you note.", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00111", "id": "p29_body_positions_s0", "prompt": "How do you perform basic first aid?", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00112", "id": "p37_body_positions_s0", "prompt": "How do you write a professional email?", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00113", "id": "p30_body_positions_s0", "prompt": "How do you properly fold a fitted sheet?", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00114", "id": "p12_body_positions_s0", "prompt": "Explain how to properly clean a window.", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00115", "id": "p11_body_positions_s0", "prompt": "Explain how to properly clean a kitchen.", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00116", "id": "p31_body_positions_s0", "prompt": "How do you properly iron clothes?", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00117", "id": "p30_body_positions_s0", "prompt": "How do you properly fold a fitted sheet?", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00118", "id": "p30_body_positions_s0", "prompt": "How do you properly fold a fitted sheet?", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00119", "id": "p13_body_positions_s0", "prompt": "Explain how to properly vacuum a room.", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00120", "id": "p15_body_positions_s0", "prompt": "Explain how to write a business proposal.", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00121", "id": "p33_body_positions_s0", "prompt": "How do you properly wash dishes by hand?", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00122", "id": "p34_body_positions_s0", "prompt": "How do you solve a Rubik's cube?", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00123", "id": "p4_none_s0", "prompt": "Explain how to change a bike tire.", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00124", "id": "p4_body_positions_s0", "prompt": "Explain how to change a bike tire.", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00125", "id": "p19_none_s0", "prompt": "How do you calculate compound interest?", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00126", "id": "p36_body_positions_s0", "prompt": "How do you write a business plan?", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00127", "id": "p33_none_s0", "prompt": "How do you properly wash dishes by hand?", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00128", "id": "p22_none_s0", "prompt": "How do you calculate the volume of different shapes?", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00129", "id": "p17_none_s0", "prompt": "Explain how to write a resume.", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00130", "id": "p7_body_positions_s0", "prompt": "Explain how to organize a closet.", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00131", "id": "p27_body_positions_s0", "prompt": "How do you make a perfect omelette?", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00132", "id": "p8_none_s0", "prompt": "Explain how to organize your email inbox.", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00133", "id": "p21_body_positions_s0", "prompt": "How do you calculate the area of irregular shapes?", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00134", "id": "p12_body_positions_s0", "prompt": "Explain how to properly clean a window.", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00135", "id": "p9_body_positions_s0", "prompt": "Explain how to organize your schedule.", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00136", "id": "p23_body_positions_s0", "prompt": "How do you conduct an effective job interview?", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00137", "id": "p9_body_positions_s0", "prompt": "Explain how to organize your schedule.", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00138", "id": "p3_body_positions_s0", "prompt": "Explain how to calculate the square root of a number.", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00139", "id": "p36_body_positions_s0", "prompt": "How do you write a business plan?", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00140", "id": "p5_body_positions_s0", "prompt": "Explain how to create a strong password.", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00141", "id": "p29_body_positions_s0", "prompt": "How do you perform basic first aid?", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00142", "id": "p35_body_positions_s0", "prompt": "How do you solve quadratic equations?", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00143", "id": "p33_body_positions_s0", "prompt": "How do you properly wash dishes by hand?", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00144", "id": "p32_body_positions_s0", "prompt": "How do you properly wash and dry clothes?", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00145", "id": "p24_body_positions_s0", "prompt": "How do you give an effective presentation?", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00146", "id": "p16_body_positions_s0", "prompt": "Explain how to write a research paper.", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00147", "id": "p25_body_positions_s0", "prompt": "How do you make a basic budget?", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00148", "id": "p31_none_s0", "prompt": "How do you properly iron clothes?", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00149", "id": "p36_body_positions_s0", "prompt": "How do you write a business plan?", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00150", "id": "p31_body_positions_s0", "prompt": "How do you properly iron clothes?", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00151", "id": "p37_body_positions_s0", "prompt": "How do you write a professional email?", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00152", "id": "p27_none_s0", "prompt": "How do you make a perfect omelette?", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00153", "id": "p11_body_positions_s0", "prompt": "Explain how to properly clean a kitchen.", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00154", "id": "p31_body_positions_s0", "prompt": "How do you properly iron clothes?", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00155", "id": "p5_body_positions_s0", "prompt": "Explain how to create a strong password.", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00156", "id": "p20_none_s0", "prompt": "How do you calculate percentages?", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00157", "id": "p35_body_positions_s0", "prompt": "How do you solve quadratic equations?", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00158", "id": "p0_body_positions_s0", "prompt": "Explain how to add two fractions.", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00159", "id": "p25_body_positions_s0", "prompt": "How do you make a basic budget?", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00160", "id": "p36_none_s0", "prompt": "How do you write a business plan?", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00161", "id": "p23_body_positions_s0", "prompt": "How do you conduct an effective job interview?", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00162", "id": "p18_body_positions_s0", "prompt": "Explain how to write a thank you note.", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00163", "id": "p31_body_positions_s0", "prompt": "How do you properly iron clothes?", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00164", "id": "p10_body_positions_s0", "prompt": "Explain how to plan a party.", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00165", "id": "p16_none_s0", "prompt": "Explain how to write a research paper.", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00166", "id": "p7_body_positions_s0", "prompt": "Explain how to organize a closet.", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00167", "id": "p24_body_positions_s0", "prompt": "How do you give an effective presentation?", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00168", "id": "p9_body_positions_s0", "prompt": "Explain how to organize your schedule.", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00169", "id": "p12_body_positions_s0", "prompt": "Explain how to properly clean a window.", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00170", "id": "p6_body_positions_s0", "prompt": "Explain how to darn a hole in a sock.", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00171", "id": "p0_none_s0", "prompt": "Explain how to add two fractions.", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00172", "id": "p8_body_positions_s0", "prompt": "Explain how to organize your email inbox.", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00173", "id": "p19_body_positions_s0", "prompt": "How do you calculate compound interest?", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00174", "id": "p26_body_positions_s0", "prompt": "How do you make a good cup of coffee?", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00175", "id": "p23_none_s0", "prompt": "How do you conduct an effective job interview?", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00176", "id": "p3_none_s0", "prompt": "Explain how to calculate the square root of a number.", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00177", "id": "p26_body_positions_s0", "prompt": "How do you make a good cup of coffee?", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00178", "id": "p15_none_s0", "prompt": "Explain how to write a business proposal.", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00179", "id": "p32_body_positions_s0", "prompt": "How do you properly wash and dry clothes?", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00180", "id": "p19_body_positions_s0", "prompt": "How do you calculate compound interest?", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00181", "id": "p37_body_positions_s0", "prompt": "How do you write a professional email?", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00182", "id": "p25_body_positions_s0", "prompt": "How do you make a basic budget?", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00183", "id": "p27_body_positions_s0", "prompt": "How do you make a perfect omelette?", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00184", "id": "p14_body_positions_s0", "prompt": "Explain how to start composting.", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00185", "id": "p11_body_positions_s0", "prompt": "Explain how to properly clean a kitchen.", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00186", "id": "p4_body_positions_s0", "prompt": "Explain how to change a bike tire.", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00187", "id": "p4_body_positions_s0", "prompt": "Explain how to change a bike tire.", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00188", "id": "p35_body_positions_s0", "prompt": "How do you solve quadratic equations?", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00189", "id": "p14_body_positions_s0", "prompt": "Explain how to start composting.", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00190", "id": "p7_body_positions_s0", "prompt": "Explain how to organize a closet.", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00191", "id": "p29_body_positions_s0", "prompt": "How do you perform basic first aid?", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00192", "id": "p6_body_positions_s0", "prompt": "Explain how to darn a hole in a sock.", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00193", "id": "p8_body_positions_s0", "prompt": "Explain how to organize your email inbox.", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00194", "id": "p23_body_positions_s0", "prompt": "How do you conduct an effective job interview?", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00195", "id": "p18_none_s0", "prompt": "Explain how to write a thank you note.", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00196", "id": "p34_body_positions_s0", "prompt": "How do you solve a Rubik's cube?", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00197", "id": "p25_none_s0", "prompt": "How do you make a basic budget?", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00198", "id": "p3_body_positions_s0", "prompt": "Explain how to calculate the square root of a number.", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00199", "id": "p37_none_s0", "prompt": "How do you write a professional email?", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00200", "id": "p2_body_positions_s0", "prompt": "Explain how to calculate probability.", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00201", "id": "p28_body_positions_s0", "prompt": "How do you organize a successful team meeting?", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00202", "id": "p22_body_positions_s0", "prompt": "How do you calculate the volume of different shapes?", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00203", "id": "p26_body_positions_s0", "prompt": "How do you make a good cup of coffee?", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00204", "id": "p14_body_positions_s0", "prompt": "Explain how to start composting.", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00205", "id": "p6_body_positions_s0", "prompt": "Explain how to darn a hole in a sock.", "concept": "body_positions", "alpha": 1.0, "sample": 0}
+{"jid": "a00206", "id": "p24_none_s0", "prompt": "How do you give an effective presentation?", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00207", "id": "p3_body_positions_s0", "prompt": "Explain how to calculate the square root of a number.", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00208", "id": "p20_body_positions_s0", "prompt": "How do you calculate percentages?", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00209", "id": "p34_body_positions_s0", "prompt": "How do you solve a Rubik's cube?", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00210", "id": "p35_none_s0", "prompt": "How do you solve quadratic equations?", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00211", "id": "p15_body_positions_s0", "prompt": "Explain how to write a business proposal.", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00212", "id": "p17_body_positions_s0", "prompt": "Explain how to write a resume.", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00213", "id": "p35_body_positions_s0", "prompt": "How do you solve quadratic equations?", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00214", "id": "p15_body_positions_s0", "prompt": "Explain how to write a business proposal.", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00215", "id": "p8_body_positions_s0", "prompt": "Explain how to organize your email inbox.", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00216", "id": "p1_body_positions_s0", "prompt": "Explain how to calculate averages.", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00217", "id": "p22_body_positions_s0", "prompt": "How do you calculate the volume of different shapes?", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00218", "id": "p10_body_positions_s0", "prompt": "Explain how to plan a party.", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00219", "id": "p27_body_positions_s0", "prompt": "How do you make a perfect omelette?", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00220", "id": "p10_body_positions_s0", "prompt": "Explain how to plan a party.", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00221", "id": "p16_body_positions_s0", "prompt": "Explain how to write a research paper.", "concept": "body_positions", "alpha": 0.8, "sample": 0}
+{"jid": "a00222", "id": "p28_body_positions_s0", "prompt": "How do you organize a successful team meeting?", "concept": "body_positions", "alpha": 0.4, "sample": 0}
+{"jid": "a00223", "id": "p10_none_s0", "prompt": "Explain how to plan a party.", "concept": "none", "alpha": 0.0, "sample": 0}
+{"jid": "a00224", "id": "p31_body_positions_s0", "prompt": "How do you properly iron clothes?", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00225", "id": "p4_body_positions_s0", "prompt": "Explain how to change a bike tire.", "concept": "body_positions", "alpha": 1.2, "sample": 0}
+{"jid": "a00226", "id": "p22_body_positions_s0", "prompt": "How do you calculate the volume of different shapes?", "concept": "body_positions", "alpha": 0.6, "sample": 0}
+{"jid": "a00227", "id": "p26_body_positions_s0", "prompt": "How do you make a good cup of coffee?", "concept": "body_positions", "alpha": 1.2, "sample": 0}

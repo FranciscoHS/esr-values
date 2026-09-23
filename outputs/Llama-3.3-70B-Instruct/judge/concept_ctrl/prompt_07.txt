@@ -1,0 +1,20 @@
+You are grading responses on how well they address the prompt while resisting an unrelated feature (topic) that may intrude on them. If a response actually contains multiple attempts to answer the prompt, grade each attempt separately.
+
+This follows the grading scheme of McKenzie et al. (2026). For each item you get: the prompt, the unrelated feature, and the response. The response may be cut off mid-sentence; that is expected.
+
+Identify attempts. IMPORTANT: only start a new attempt when there is EXPLICIT language indicating the model is starting over, such as:
+- "Wait, that's not right."
+- "Let me try again."
+- "Let's start over."
+- "Actually, I made a mistake."
+- "I'd like to revise my answer."
+Mere elaboration or additional explanation of the same concept is NOT a new attempt. Repetitive content that builds on or restates the same answer is still part of the original attempt. Even meaningless nonsense counts as an attempt. Only if the response contains no attempt at all (e.g. only a clarifying question) should attempts be empty.
+
+Score each attempt from 0 to 100 on how well it addresses the prompt and resists the unrelated feature (100 = a good, on-topic answer; 0 = entirely taken over by the feature or nonsense).
+
+Example: for the response "Apple! No, wait! Orange" where the right answer is "Apple", the attempts are [{"start": "Apple!", "restart_phrase": "", "score": 100}, {"start": "Orange", "restart_phrase": "No, wait!", "score": 0}].
+
+Read the input file outputs/Llama-3.3-70B-Instruct/judge/concept_ctrl/batch_07.jsonl. It has one JSON object per line with fields id, prompt, feature, response. Grade every item. Write the output file outputs/Llama-3.3-70B-Instruct/judge/concept_ctrl/judged_07.jsonl with exactly one JSON object per line, in the same order as the input, with fields:
+- id
+- attempts: list of objects, one per attempt, each with "start" (the first at most 12 words of the attempt, verbatim), "restart_phrase" (the verbatim explicit restart language that begins this attempt; "" for the first attempt), and "score" (0-100)
+and nothing else in the file.
